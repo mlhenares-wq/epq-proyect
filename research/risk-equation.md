@@ -1,5 +1,7 @@
 # Chokepoint Disruption Risk Index (CDRI)
 
+> **Update:** this is **version 1** (the simple version). The recommended equation is the **CCRI**, $R = (L \times S \times K)^{1/3}$ with $K = 5 - C/5$. It is justified in `equation-literature-review.md` and applied to all three case studies in `ccri-results.md`. The scoring bands below (§2–§3) and the process-tracing method (§4) are still used by version 2.
+
 A method for measuring the **risk of disruption** at a maritime chokepoint, comparing it between two periods, and testing **how much of the change was caused by multilateral cooperation**.
 
 It uses the standard definition of risk from risk management (ISO 31000 and most national risk registers, including the UK's National Risk Register):

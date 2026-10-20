@@ -346,9 +346,9 @@ Assesses every source in `research/sources/14-news-redsea-region.md` (98 items) 
 | Grade | Count |
 |---|---|
 | A | 0 |
-| B | 8 |
+| B | 7 |
 | C | 61 |
-| D | 29 |
+| D | 30 |
 | E | 0 |
 | F | 0 |
 
@@ -357,13 +357,13 @@ Assesses every source in `research/sources/14-news-redsea-region.md` (98 items) 
 | Code | Count | Code | Count |
 |---|---|---|---|
 | B1 | 3 | D1 | 2 |
-| B2 | 5 | D2 | 19 |
-| C1 | 11 | D3 | 6 |
-| C2 | 37 | D4 | 2 |
+| B2 | 4 | D2 | 20 |
+| C1 | 9 | D3 | 6 |
+| C2 | 39 | D4 | 2 |
 | C3 | 12 | | |
 | C4 | 1 | | |
 
-**By usefulness:** 5 = 5 · 4 = 21 · 3 = 36 · 2 = 32 · 1 = 4
+**By usefulness:** 5 = 4 · 4 = 19 · 3 = 37 · 2 = 34 · 1 = 4
 
 ---
 

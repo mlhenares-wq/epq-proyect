@@ -302,12 +302,12 @@ Files assessed: `sources/03-peer-reviewed.md` (43 items) and `sources/11-peer-re
 | Grade | File 03 | File 11 | Total |
 |---|---|---|---|
 | A1 | 2 | 6 | 8 |
-| A2 | 11 | 13 | 24 |
-| A3 | 12 | 2 | 14 |
-| A6 | 9 | 1 | 10 |
+| A2 | 10 | 13 | 23 |
+| A3 | 11 | 2 | 13 |
+| A6 | 8 | 1 | 9 |
 | B1 | 1 | 2 | 3 |
-| B2 | 5 | 5 | 10 |
-| B3 | 3 | 4 | 7 |
+| B2 | 5 | 6 | 11 |
+| B3 | 3 | 5 | 8 |
 | B4 | 1 | 0 | 1 |
 | B6 | 1 | 0 | 1 |
 | C2 | 0 | 2 | 2 |
@@ -315,9 +315,9 @@ Files assessed: `sources/03-peer-reviewed.md` (43 items) and `sources/11-peer-re
 | C6 | 0 | 1 | 1 |
 | D3 | 0 | 1 | 1 |
 | F6 | 0 | 2 | 2 |
-| **Total** | **46*** | **42*** | **88*** |
+| **Total** | **43** | **44** | **87** |
 
-\*See the corrected counts immediately below (the table above is replaced by them).
+By letter: A = 53, B = 24, C = 7, D = 1, E = 0, F = 2. Five papers appear in both files (Yap & Yang; Bedoya-Maya; Rai; AJIL Contemporary Practice; Bueger & Edmunds), so there are 82 distinct sources.
 
 ## Use with caution
 
