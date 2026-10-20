@@ -279,9 +279,9 @@ Assessed 20 October 2026.
 | F | 0 |
 | **Total** | **77** |
 
-By full code: B2 ×2; C1 ×6; C2 ×42; C3 ×6; C4 ×1; D2 ×14; D3 ×4; D4 ×1; D6 ×1.
+By full code: B2 ×2; C1 ×6; C2 ×43; C3 ×5; C4 ×1; D2 ×14; D3 ×4; D4 ×1; D6 ×1.
 
-Usefulness: 5 ×6; 4 ×30; 3 ×28; 2 ×13; 1 ×0.
+Usefulness: 5 ×5; 4 ×30; 3 ×29; 2 ×13; 1 ×0.
 
 ## Use with caution
 
