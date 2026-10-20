@@ -8,7 +8,7 @@ Everything finished so far is saved in this folder. These tasks were stopped bef
    - Malacca: IMB yearly series 1991–2025, ReCAAP 2007–26, transits, the 2005–06 JWC listing, patrol inputs, the tsunami and Aceh, the 2026 fall
 2. **Re-score `ccri-results.md`** with any new figures from the data books.
 3. **Top-up searches** for gaps: NYT, Guardian, El País, Carnegie, CNA; Malacca historical news 1999–2006; unchecked plan links #18–21.
-4. **Final document (requested by the student):** put everything into ONE document, a Claude Doc titled "EPQ Research Compendium: Multilateral Cooperation and Chokepoint Disruption", with a Markdown copy at `research/EPQ-research-compendium.md`. It should contain:
+4. **Final document:** DONE: Claude Doc + research/EPQ-research-compendium.md (data section removed at the student's request; the data books stay in research/data/).
    - headline findings and verdicts, the CCRI equation and results, and the method
    - a source list grouped by case study, then by type, where **every source** has a full citation + link, a **short summary (1–2 sentences)**, its Admiralty grade, and a **short explanation of why it is or isn't reliable (1 sentence)**. Take these from `sources/` and `provenance/`, and remove duplicates.
    - the data tables from `data/`
