@@ -286,7 +286,7 @@ Note: the 1999–2004 series (ships reporting to the traffic system) and the 202
 | 1 | serious attacks reported to the IMB since MALSINDO began | 20 Jul–mid-Aug 2004 | Straits Times (16 Aug 2004 issue, above) | N |
 | at least 20 | sailors kidnapped since May 2004 | May–Dec 2004 | Reuters in Straits Times (25 Dec 2004 issue) (file 15 S6 note) | N |
 | 8 Sept 2005 | four states agree to EiS air patrols | 2005 | VOA via GlobalSecurity, https://www.globalsecurity.org/military/library/news/2005/09/mil-050908-voa01.htm | N |
-| 13 Sept 2005 | first EiS flight / launch | 2005 | MINDEF joint release, https://www.nas.gov.sg/archivesonline/data/pdfdoc/20050913984.htm ; Business Times (13 Sept 2005 issue), https://eresources.nlb.gov.sg/newspapers/digitised/issue/biztimes20050913-1 | Y |
+| 13 Sept 2005 | first EiS flight / launch | 2005 | MINDEF joint release, https://www.nas.gov.sg/archivesonline/data/pdfdoc/20050913984.htm (Today, 9 Sept 2005 issue, says patrols "set to begin": https://eresources.nlb.gov.sg/newspapers/digitised/issue/today20050909-1) | N |
 | 4 | states in EiS (Indonesia, Malaysia, Singapore, Thailand) | 2005 | VOA (above); MINDEF joint release (above) | Y |
 | 2 | aircraft contributed per country | 2005 | VOA (above) | N |
 | up to 2 | patrols a week per state | 2005 | MINDEF joint release (above); VOA (above) | Y |
@@ -320,7 +320,7 @@ Note: the 1999–2004 series (ships reporting to the traffic system) and the 202
 | 16 | Asian states that finalised the agreement | Nov 2004 | Jakarta Post (2024), https://www.thejakartapost.com/opinion/2024/06/05/as-shipping-supply-chains-are-interrupted-by-wars-how-is-southeast-asia-faring ; Straits Times issue 21 Apr 2006 ("16 Asian nations"), https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20060421-1 | Y |
 | 11 Nov 2004 | adopted in Tokyo | 2004 | NUS CIL treaty database, https://cil.nus.edu.sg/databasecil/2004-regional-cooperation-agreement-on-combating-piracy-and-armed-robbery-against-ships-in-asia-3/ | N |
 | 4 Sept 2006 | entry into force | 2006 | NUS CIL (above); file 05 note 8 | Y |
-| 29 Nov 2006 | Information Sharing Centre opens in Singapore | 2006 | Singapore National Archives factsheet, https://www.nas.gov.sg/archivesonline/data/pdfdoc/20061129970.pdf ; file 05 note 8 | Y |
+| 29 Nov 2006 | Information Sharing Centre opens in Singapore | 2006 | Singapore National Archives factsheet, https://www.nas.gov.sg/archivesonline/data/pdfdoc/20061129970.pdf ; Today (30 Nov 2006 issue), https://eresources.nlb.gov.sg/newspapers/digitised/issue/today20061130-2 | Y |
 | NO DATA FOUND | number of contracting parties at entry into force | 2006 | – | – |
 | 21 | contracting parties | Aug 2021 | Wikipedia, https://www.wikipedia.org/wiki/ReCAAP | N |
 | 21 | contracting parties | June 2024 | NUS CIL database (above) | N |
