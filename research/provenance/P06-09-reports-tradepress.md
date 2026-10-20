@@ -341,9 +341,9 @@ Assessed 20 October 2026 using `research/provenance-rubric.md` (Admiralty Code +
 
 | Reliability | File 06 | File 09 | Total |
 |---|---|---|---|
-| A | 20 | 2 | 22 |
-| B | 17 | 37 | 54 |
-| C | 5 | 15 | 20 |
+| A | 22 | 2 | 24 |
+| B | 16 | 37 | 53 |
+| C | 4 | 15 | 19 |
 | D | 0 | 2 | 2 |
 | E | 0 | 0 | 0 |
 | F | 0 | 0 | 0 |
@@ -352,14 +352,14 @@ Assessed 20 October 2026 using `research/provenance-rubric.md` (Admiralty Code +
 
 | Grade | File 06 | File 09 | Total |
 |---|---|---|---|
-| A1 | 11 | 1 | 12 |
-| A2 | 9 | 1 | 10 |
-| B1 | 1 | 10 | 11 |
-| B2 | 12 | 18 | 30 |
-| B3 | 4 | 3 | 7 |
-| B6 | 0 | 6 | 6 |
+| A1 | 10 | 1 | 11 |
+| A2 | 12 | 1 | 13 |
+| B1 | 1 | 9 | 10 |
+| B2 | 12 | 20 | 32 |
+| B3 | 3 | 3 | 6 |
+| B6 | 0 | 5 | 5 |
 | C1 | 0 | 5 | 5 |
-| C2 | 4 | 9 | 13 |
+| C2 | 3 | 9 | 12 |
 | C3 | 1 | 1 | 2 |
 | D1 | 0 | 1 | 1 |
 | D2 | 0 | 1 | 1 |

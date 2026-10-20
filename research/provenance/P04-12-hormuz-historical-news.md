@@ -252,9 +252,9 @@ No sources in file 12, so there is nothing to grade. This is a gap in the eviden
 | Grade | File 04 (40) | File 12 (53) | Total (93) |
 |---|---|---|---|
 | A1 | 3 | 0 | 3 |
-| B1 | 10 | 14 | 24 |
-| B2 | 9 | 31 | 40 |
-| B3 | 1 | 5 | 6 |
+| B1 | 11 | 13 | 24 |
+| B2 | 10 | 32 | 42 |
+| B3 | 1 | 4 | 5 |
 | B4 | 0 | 1 | 1 |
 | C1 | 2 | 1 | 3 |
 | C2 | 6 | 2 | 8 |
@@ -263,7 +263,7 @@ No sources in file 12, so there is nothing to grade. This is a gap in the eviden
 | D2 | 2 | 0 | 2 |
 | F3 | 1 | 0 | 1 |
 
-By producer letter: A 3 · B 71 · C 15 · D 2 · E 0 · F 1.
+By producer letter: A 3 · B 72 · C 15 · D 2 · E 0 · F 1.
 
 ## Use with caution
 
