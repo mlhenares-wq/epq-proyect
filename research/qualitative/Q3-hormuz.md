@@ -1,10 +1,10 @@
 ## Strait of Hormuz: Tanker War (1980–88) vs the 2026 closure
 
-Multilateral cooperation at Hormuz grew between the two periods, but disruption became far more severe. Cooperation softened the 2026 shock through oil stocks and insurance, yet the type of threat, trade concentration and the changed US role explain far more.
+Multilateral cooperation at Hormuz grew between the two periods, but disruption became far more severe. Cooperation softened the 2026 shock through oil stocks and insurance. The type of threat, trade concentration and the US role explain far more.
 
 ### Likelihood
 
-Attacks on shipping were near-certain in both periods: Lloyd's counted 178 ships attacked or damaged in 1987 (Lloyd's Shipping Intelligence via UPI, 10 Dec 1987, B3); USNI gives 179–181 (USNI *Proceedings*, May 1988, ungraded, snippet only).
+Attacks were near-certain in both periods: Lloyd's counted 178 ships attacked or damaged in 1987 (Lloyd's Shipping Intelligence via UPI, 10 Dec 1987, B3); USNI gives 179–181 (USNI *Proceedings*, May 1988, ungraded, snippet only).
 
 In the 1980s Iraq declared a blockade of Iranian ports (UPI, 7 Mar 1984, B2) and made about two-thirds of the attacks (*The National*, 2020, C1). Iran retaliated but needed the strait for its own exports, so neither side tried closure.
 
@@ -12,7 +12,7 @@ In 2026 Iran was at war with the US and Israel after their strikes of 28 Februar
 
 Iran already had mines and Silkworm missiles in 1987 (UPI, 16 Oct 1987, B1). By 2026 it added cheap drones and about 80 mines (reports around *The National*, 6 Jul 2026, C2). Talmadge had warned that Iran could make the strait unusable (Talmadge, 2008, A2).
 
-| Project index score (A1 file; own calculation) | Tanker War | 2026 closure |
+| Index score (A1 file, own calculation) | Tanker War | 2026 closure |
 |---|---|---|
 | Likelihood, L (1–5) | 5.00 | 4.67 |
 | Severity, S (1–5) | 2.67 | 4.33 |
@@ -23,7 +23,7 @@ Likelihood barely moved; almost all the rise in risk came from severity.
 
 ### Severity
 
-**Trade.** In the 1980s Gulf shipping fell 25%, yet at most about 2% of ships were hit (Strauss Center, n.d., B2). In 2026 daily transits fell from 129 to 6 (UNCTAD, April 2026, A2; figures seen only via a D6 mirror copy). Loadings dropped to about 3.8 mb/d from over 20 mb/d (IEA *Oil Market Report*, April 2026, A2).
+**Trade.** In the 1980s Gulf shipping fell 25%, yet at most about 2% of ships were hit (Strauss Center, n.d., B2). In 2026 daily transits fell from 129 to 6 (UNCTAD, April 2026, A2; figures seen only via a D6 mirror copy). Loadings fell to about 3.8 mb/d from over 20 mb/d (IEA *Oil Market Report*, April 2026, A2).
 
 The World Bank called it the largest oil supply shock on record (World Bank, April 2026, A2). Recovery is disputed: early-October crude flows were about 74% of pre-war (Kpler via Iran International, 8 Oct 2026, C1). Another Kpler reading put exports about 40% below normal (CNBC, 14 Oct 2026, B1).
 
@@ -43,7 +43,7 @@ The World Bank called it the largest oil supply shock on record (World Bank, Apr
 
 In 2026 the UK–France mission, announced on 9 March (France 24, B1), still had no ships in the strait on 6 October (*The National*, 6 Oct 2026, C2). US-led escorts managed about 30 transits a day, 22% of normal (CENTCOM via gCaptain, 15 Oct 2026, C2).
 
-**Information sharing.** The 1980s relied on ad hoc warnings and US intelligence (Mobley, CIA *Studies in Intelligence*, 2016, B2); without a shared picture, USS *Vincennes* shot down Iran Air 655, killing 290 (UPI, 4 Jul 1988, B1). In 2026 the JMIC issued threat levels (JMIC via Seatrade, 2026, B2), though US and tracking transit counts differed: about 1,000 against 650 (gCaptain/Bloomberg, 5 Jun 2026, B2).
+**Information sharing.** The 1980s relied on ad hoc warnings and US intelligence (Mobley, CIA *Studies in Intelligence*, 2016, B2). Without a shared picture, USS *Vincennes* shot down Iran Air 655, killing 290 (UPI, 4 Jul 1988, B1). The 2026 JMIC threat levels helped (JMIC via Seatrade, 2026, B2), but US and tracking counts of transits differed: about 1,000 against 650 (gCaptain/Bloomberg, 5 Jun 2026, B2).
 
 **Response speed.** Kuwait asked for reflagging in early 1987 (Richer, 2024, A2), but convoys began only in July (UPI, 23 Jul 1987, B1). In 2026 all 32 IEA members agreed a record 400m-barrel release on 11 March (IEA, 11 Mar 2026, A1). A US DFC–Chubb reinsurance facility followed, rising from $20bn to $40bn by 6 April (Insurance Journal, 2026, C2).
 
@@ -57,9 +57,9 @@ In 2026 the UK–France mission, announced on 9 March (France 24, B1), still had
 
 **Trade concentration.** About 20 mb/d, roughly 25% of seaborne oil, used the strait before the war (IEA, 11 Mar 2026, A1). The 1984 figure was over 7 mb/d (USIP *Iran Primer*, ungraded, snippet only); a share of about 12% of world demand carries [BK] and is unverified.
 
-**US role.** In 1987–88 the US was a neutral protector. In 2026 it was a belligerent: its blockade from 13 April (Atlantic Council, 2026, B2) preceded Iran's re-closure on 18 April (Al Jazeera, 11 Jun 2026, C2).
+**US role.** The US went from neutral protector in 1987–88 to belligerent in 2026. Its blockade from 13 April (Atlantic Council, 2026, B2) preceded Iran's re-closure on 18 April (Al Jazeera, 11 Jun 2026, C2).
 
-**Pipelines and the oil surplus.** Bypass lines can carry about 9 mb/d against about 20 mb/d through the strait (Al Jazeera, 27 Mar 2026, B2). Bordoff and O'Sullivan credit pre-war oversupply and pipelines, not navies, for the milder-than-feared outcome (*Foreign Affairs*, Aug 2026, B2).
+**Pipelines and the oil surplus.** Bypass lines can carry about 9 mb/d against about 20 mb/d through the strait (Al Jazeera, 27 Mar 2026, B2). Bordoff and O'Sullivan credit oversupply and pipelines, not navies, for the milder-than-feared outcome (*Foreign Affairs*, Aug 2026, B2).
 
 **Technology and shale.** Drones shut Saudi Arabia's East–West pipeline on 13 September (*Saudi Gazette*, Sep 2026, C1). Shale made the US a net exporter, yet it faced the same price shock (Brookings, 2026, B2).
 
@@ -67,6 +67,6 @@ In 2026 the UK–France mission, announced on 9 March (France 24, B1), still had
 
 Cooperation reduced severity at the margin but did not reduce likelihood or drive the change. Index risk rose by about half while cooperation rose slightly. The project's attribution test gives cooperation 5.7% of causal weight, the smallest share; generous scoring lifts it only to 10.7%.
 
-The best explanation is several factors together. Type of threat leads (15.1%), with trade concentration and the US role close behind (13.2% each). Defenders of cooperation can fairly argue the IEA release capped prices, but no source measures that effect.
+Several factors together explain it better: type of threat (15.1%), trade concentration and the US role (13.2% each). Defenders of cooperation can fairly argue the IEA release capped prices, but no source measures that effect.
 
-My confidence is moderate. The verdict survives every sensitivity test, but most evidence comes from snippets, the crisis is ongoing, and some factors overlap.
+My confidence is moderate. The verdict survives every sensitivity test, but most evidence is from snippets, the crisis continues, and some factors overlap.

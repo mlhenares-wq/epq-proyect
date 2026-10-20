@@ -6,9 +6,9 @@ Multilateral cooperation was much stronger in 2023–26 than in 1967–75, yet i
 
 ### Likelihood
 
-In June 1967 Egypt closed the canal itself. It was "blocked at both ends by scuttled Egyptian ships" (Time, 1967, B2). Disruption was therefore certain, not a matter of chance.
+In June 1967 Egypt closed the canal itself. It was "blocked at both ends by scuttled Egyptian ships" (Time, 1967, B2). Disruption was certain, not a matter of chance.
 
-It happened because the canal became a front line after the Six-Day War. UN observers watched a ceasefire along it, starting with 43 observers at 9 posts (UN S/8053/Add.4, 1967, ungraded). No ships sailed, so there were no attacks to count and no premiums to price.
+The canal had become a front line after the Six-Day War. UN observers watched a ceasefire along it, starting with 43 observers at 9 posts (UN S/8053/Add.4, 1967, ungraded). No ships sailed, so there were no attacks to count and no premiums to price.
 
 In 2023–26 disruption was likely, but never certain. The Houthis attacked selected ships linked to Israel, the US or the UK, and later Saudi Arabia (AP, 2026, B1). Counts range from 99 attacks by early 2026 (Container News citing Lloyd's List, 2026, C2) to over 100 ships by December 2024 (Seatrade, 2025, C2).
 
@@ -26,7 +26,7 @@ Attacks were not certain for any one ship. China negotiated passage directly (Re
 | Freight | Tanker rates "doubled" by July 1967 (NYT via a blog, ungraded) | Shanghai–Rotterdam +246% by 18 January 2024 (Hellenic Shipping News citing Drewry, 2024, D1) |
 | War-risk premium | No data: no transits | ~0.01% implied (Lloyd's List, 2024, B2) or ~0.5% (Reuters, 2024, B2) before; ~1% in January 2024 (Lloyd's List, 2024, B2); up to 7% for Saudi-linked ships in 2026 (Reuters, 2026, B2) |
 
-Both Egyptian revenue figures come from the canal authority, so they are not independent. The Drewry figure comes from one weekly release.
+Both revenue figures come from the canal authority, so are not independent. The Drewry figure comes from one weekly release.
 
 In 1967, 15 ships were trapped for eight years (Time, c. 1969, B2), though other sources say 14 or 16. By July 2025 four ships had sunk (AP via CP24, 2025, ungraded; Bloomberg, 2025, B1). Deaths to July 2025 range from 6 (Iran International) to 8 (Dawn), both ungraded snippets.
 
@@ -34,7 +34,7 @@ Most ships rerouted round the Cape, adding over 10 days (IMF, 2024, A1). Cape ar
 
 For 1967–75, Feyrer finds a 10% shorter sea route raises trade by about 5% (Feyrer, 2009, B2). Each extra dollar of trade adds about 25 cents of income (Feyrer, 2009, B2). CEPII finds a much smaller effect (CEPII, 2016, B2), so the size is contested.
 
-Overall, 1967–75 was more severe for trade and duration. 2023–26 was worse for lives and insurance costs.
+So 1967–75 was worse for trade and duration; 2023–26 was worse for lives and insurance.
 
 ### What multilateral cooperation did
 
@@ -49,13 +49,13 @@ Scores are my own, 0–4 per factor (file A2).
 | Enforcement | 0 | 2 |
 | **Total (out of 20)** | **5** | **13** |
 
-**1967–75.** UN Resolutions 242 (1967) and 338 (1973) set a framework but had no enforcement. UNEF II, with up to 7,000 troops, policed the 1974 buffer zone (UN Peacekeeping, ungraded). US, UK and French units then cleared the canal from 11 April to 15 December 1974 (CTF-65, 1975, B1).
+**1967–75.** UN Resolutions 242 (1967) and 338 (1973) set a framework but had no enforcement. UNEF II, with up to 7,000 troops, policed the 1974 buffer zone (UN Peacekeeping, ungraded). US, UK and French units then cleared the canal from 11 April to 15 December 1974 (CTF-65, 1975, B1); GlobalSecurity gives 20 December (ungraded).
 
 The clearance removed 686,000 mines (Wikipedia, D2), or over 700,000 explosives (Time, 1974, B4). Nimrod Spar raised 10 wrecks (Boyd, 1976, B2), with the US paying about $15m (Time, 1974, B2). But clearance began seven years late, after the 1973 war and a US-brokered deal (Time, 1975, B2).
 
 **2023–26.** Prosperity Guardian launched 29 days after the first attack (CNN, 2023, B1). Resolution 2722 passed 11–0–4, with Russia and China abstaining (UN Security Council, 2024, A1).
 
-EU Aspides escorted over 720 ships by August 2026 (EEAS via Lovguiden, 2026, ungraded). Atalanta was extended into the Red Sea (Council of the EU, 2024, A1).
+EU Aspides escorted over 720 ships by August 2026 (EEAS via Lovguiden, 2026, ungraded). Atalanta was extended into the Red Sea (Council of the EU, 2024, A1). Aspides also issued threat alerts to shipping (ANSA, 2026, B2).
 
 After US/UK strikes on about 60 targets (CSIS, 2024, B2), premiums tripled within a week (Lloyd's List, 2024, B2). The 2025 truce was a bilateral US–Houthi deal brokered by Oman (CBS News, 2025, B1). Two ships sank two months later (Bloomberg, 2025, B1).
 
