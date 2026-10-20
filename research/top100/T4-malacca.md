@@ -1,0 +1,119 @@
+66. **ReCAAP ISC (2026). Piracy and Armed Robbery against Ships in Asia: Annual Report 2025 (and press release).** ReCAAP Information Sharing Centre. [link](https://recaap.org/resources/ck/files/reports/annual/ReCAAP%20ISC%20Annual%20Report%202025.pdf) — **Grade A1** · Type: Official / data (intergovernmental) · Period: 2025–26
+
+     Summary and analysis: ReCAAP's own dataset reports 132 incidents in Asia in 2025 (+23%) and 108 in the Straits of Malacca and Singapore, the most since its records began in 2007 (+74% on 62). Yet 107 were in the Singapore Strait and only 1 in the Malacca Strait proper. None were CAT 1, 53% were petty theft, and about 87% came in January–July, before Indonesian arrests (helped by ships' CCTV) cut the numbers. It is core evidence for 2025–26 incidents, information sharing and enforcement. Use it to show the awkward fact that cooperation was at its height when incidents peaked, and to separate how often incidents happen from how serious they are. MINDEF (77) and Malay Mail (83) confirm it; never chart it with IMB counts.
+
+     Reliability: Original intergovernmental data, but ReCAAP relies on voluntary reporting and, as the framework being evaluated, has a stake in showing that it works.
+
+67. **[Authors to check] (2023). Multilateral cooperation against maritime piracy in the Straits of Malacca: from the RMSI to ReCAAP.** *Marine Policy*. [link](https://www.sciencedirect.com/science/article/abs/pii/S0308597X23001550) — **Grade A2** · Type: Peer-reviewed journal article · Period: several
+
+     Summary and analysis: This peer-reviewed article explains why the US-backed Regional Maritime Security Initiative (2004) failed: Indonesia and Malaysia saw outside patrols as a threat to their sovereignty and did not rank piracy as a priority. ReCAAP learned from that failure. It worked better because it was inclusive and built on information sharing rather than joint patrols, even though Malaysia and Indonesia have still not signed it. It is the key academic source on formal frameworks and information sharing, and on why Malacca cooperation took a "coordinated, not joint" form. Use it to frame the 2004–06 sovereignty debate, then test its optimism against the 2025 surge (66) and the Marine Policy critique (70). RSIS/IDSS (81) and the Straits Times (82) supply the voices from the time behind its argument.
+
+     Reliability: A peer-reviewed journal with the abstract confirmed, but the authors are unknown, it is paywalled and it may favour the ReCAAP model.
+
+68. **ICC International Maritime Bureau (2001). Piracy attacks rise to alarming new levels, ICC report reveals.** ICC press release. [link](https://iccwbo.org/news-publications/news/piracy-attacks-rise-to-alarming-new-levels-icc-report-reveals/) — **Grade A1** · Type: Official / data (industry watchdog) · Period: peak
+
+     Summary and analysis: The IMB's release on its 2000 report announced a world record of 469 attacks (+57%) and 72 seafarers killed. Attacks in the Malacca Strait jumped from 2 in 1999 to 75, and Indonesia recorded 119. It warned that attacks would not fall unless Indonesia took serious action. This is the baseline for the incidents measure at the peak. It also shows cooperation before any regional framework existed: no coordinated response came for over four years, a poor score on response speed. Use it as the start of the time series, and note that the steepest fall (75 to 16 by 2002, IMB) came before MALSINDO began in July 2004, a central counter-argument. Use IMB figures for the peak, because ReCAAP data begin only in 2007.
+
+     Reliability: Original data from a shipowner-backed watchdog that wants the threat noticed, and IMB counts differ from ReCAAP's, so the two series must not be mixed.
+
+69. **Al Jazeera (2005). Piracy disappears in tsunami's wake.** Al Jazeera (also NBC News). [link](https://www.aljazeera.com/amp/news/2005/2/1/piracy-disappears-in-tsunamis-wake) — **Grade B2** · Type: News (international) · Period: peak
+
+     Summary and analysis: Weeks after the 26 December 2004 tsunami, IMB official Noel Choong reported that there had been no attacks in the Malacca Strait since the disaster. He suggested pirates' boats and weapons had been destroyed or pirates killed, and that the aid operation in Sumatra also played a part: "The tsunami seems to have really succeeded where the joint patrols could not." It is the strongest contemporary evidence for the tsunami as an alternative factor and directly challenges the claim that MALSINDO caused the 2005 fall. Use it in the counter-argument, but note that the effect was temporary: attacks resumed by March 2005. It therefore explains the early-2005 dip better than the lasting low. Set it against the pro-patrol claims of MINDEF (74) and Antara (85).
+
+     Reliability: A major broadcaster quoting one IMB official only weeks after the event, so it is a first impression rather than an analysis.
+
+70. **[Authors to check] (2026). Complexities of governance and sovereignty in maritime security.** *Marine Policy*. [link](https://www.sciencedirect.com/science/article/pii/S0308597X26000369) — **Grade A3** · Type: Peer-reviewed journal article · Period: fall
+
+     Summary and analysis: This recent article gives the sharpest critique of Eyes in the Sky. It reports that only about 8 air patrols a week were flown, against roughly 70 needed, and in daylight while pirates struck at night. It argues that piracy falling at the same time as the patrols began makes them look effective without proving that they caused the fall. It is evidence on joint operations and enforcement, and on the core method problem of correlation versus causation. Use it to challenge Galgano (78) and the official claims of MINDEF (74) and Antara (85), alongside the tsunami (69) and the fall before the patrols (68). The title, authors and the 8/70 figures are unconfirmed, so check them in the paper before quoting.
+
+     Reliability: A peer-reviewed journal, but the title and authors are unconfirmed, so the 8/70 figures must be checked before use.
+
+71. **inforMARE (2006). Lloyd's Joint War Committee removes the Malacca Strait from its listed areas.** inforMARE, backed by London P&I Club circular 7083. [link](https://www.informare.it/news/review/2006/b090806uk.asp) — **Grade C1** · Type: Official / data (JWC delisting via London P&I circular, reported by trade press) · Period: fall
+
+     Summary and analysis: This Italian shipping report, backed by London P&I Club circular 7083, records that Lloyd's Joint War Committee removed the Malacca Strait from its war-risk listed areas from 00:01 BST on 7 August 2006, about 14 months after the June 2005 listing. Ports in north-east Sumatra stayed listed. It is the clearest dated evidence that a measured cost fell: war-risk premiums, reported elsewhere at about 0.4% of hull value or 1% of cargo value. It also dates the JWC listing, which is itself an alternative factor. Use it to fix when the premium ended, and pair it with Business Insurance (72) for why insurers acted. Beware circularity: the listing is both a measure of likelihood and a pressure that pushed states to cooperate.
+
+     Reliability: Italian shipping press backed by a London P&I Club circular, but the delisting is insurers' judgement, not proof that the patrols caused it.
+
+72. **Business Insurance / Malaysiakini (2006). Strait of Malacca off high-risk list / Dropping of Malacca Strait "war risk" listing hailed.** Business Insurance and Malaysiakini. [link](https://www.businessinsurance.com/strait-of-malacca-off-high-risk-list/) — **Grade C1** · Type: Trade press + Malaysian news · Period: fall
+
+     Summary and analysis: These August 2006 reports say Lloyd's credited better security, citing the Financial Times that Singapore and Malaysia had stepped up naval and air patrols. Business Insurance adds that the JWC acted after its security consultant reviewed the coastal states' measures, including seven Eyes in the Sky flights a week. Malaysia's defence minister welcomed lower premiums for ship operators. This is the best link between joint operations and the war-risk premium measure, and it gives a Malaysian reaction. Use it to argue that cooperation's clearest effect was on insurers' view of risk rather than on incidents. Contrast it with the JWC's refusal to delist in January 2006 despite lobbying, and with MINDEF's 2016 claim of credit, which is less independent.
+
+     Reliability: US insurance trade press plus an independent Malaysian outlet, but the minister's praise is self-congratulatory and the exact dates are unconfirmed.
+
+73. **Johnson, D. and Valencia, M. (eds) (2005). Piracy in Southeast Asia: Status, Issues, and Responses.** ISEAS / IIAS (book). [link](https://bookshop.iseas.edu.sg/publication/744) — **Grade A2** · Type: Academic edited book · Period: peak
+
+     Summary and analysis: Written at the height of the peak, this edited volume examines the roots of modern piracy in Southeast Asia, the obstacles to regional cooperation (sovereignty and disputed borders), the roles of shipowners and insurers, and suspected links to terrorism. It is the main scholarly account of the peak and of why cooperation was slow, so it supports the response-speed and formal-frameworks factors and gives context for the war-risk premium debate. Use it to explain why MALSINDO arrived about four years after the 2000 surge, and to show that experts at the time could not yet judge the new patrols. It agrees with Marine Policy (67) on sovereignty, but it ends before ReCAAP and Eyes in the Sky.
+
+     Reliability: Scholarly and written during the events, so it ends before ReCAAP and Eyes in the Sky took effect, and the summary comes from search results only.
+
+74. **Ministry of Defence, Singapore (2005). Joint news release: launch of Eyes in the Sky (EiS) initiative.** National Archives of Singapore. [link](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20050913984.htm) — **Grade B1** · Type: Official (four-state government release) · Period: peak
+
+     Summary and analysis: This joint release by Malaysia, Indonesia, Singapore and Thailand records the launch of Eyes in the Sky on 13 September 2005. Each state flies up to two maritime air patrols a week, with an officer from each country on board, under a sovereignty clause. It is the founding document for the joint-operations and information-sharing factors at the end of the peak. It also dates the response: more than five years after the 2000 surge and three months after the Lloyd's listing, which suggests market pressure sped it up. Use it for what governments committed to, not for results. The Marine Policy critique (70) questions whether so few daytime flights could matter, while Business Insurance (72) shows that insurers took them seriously.
+
+     Reliability: An official four-state release, solid on what governments did but silent on whether it worked.
+
+75. **YaleGlobal Online (2004). Indonesia, Malaysia, Singapore launch coordinated patrol of Malacca Strait.** YaleGlobal Online (wire reprint). [link](https://archive-yaleglobal.yale.edu/node/47391) — **Grade B1** · Type: News (wire report) · Period: peak
+
+     Summary and analysis: This wire report, reprinted by Yale's news digest, covers the launch of year-round MALSINDO coordinated sea patrols by Indonesia, Malaysia and Singapore on 20 July 2004. Each navy committed about 5–7 ships and shared a coordination hotline, but ships could cross into a neighbour's waters in hot pursuit only with permission. It is the primary evidence for when joint operations began, and for the sovereignty limits on enforcement that defined the Malacca model. Use it to fix the timeline: the patrols began after the 2000–02 fall but before the 2004–05 drop (38 to 12 attacks). Read it with the RMSI row (81, 82), which made this coordinated national format the only one the coastal states would accept.
+
+     Reliability: A wire story reprinted by Yale's news digest, but the original agency is not named and the ship numbers come from a snippet.
+
+76. **ReCAAP member states (2004). Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia.** NUS Centre for International Law treaty database. [link](https://cil.nus.edu.sg/databasecil/2004-regional-cooperation-agreement-on-combating-piracy-and-armed-robbery-against-ships-in-asia-3/) — **Grade A1** · Type: Official (treaty text) · Period: several
+
+     Summary and analysis: The treaty, signed in November 2004 and in force on 4 September 2006, is Asia's first government-to-government anti-piracy agreement. It set up the Information Sharing Centre in Singapore. The text shows that ReCAAP's core is information sharing and capacity building, not enforcement or joint patrols, so it is the primary source for the formal-frameworks factor. Use it to expose the timing problem: ReCAAP came into force after Malacca attacks had already fallen to 11–12 a year and after the JWC delisting. It also shows the key gap: Malaysia and Indonesia, the two biggest coastal states, are not parties. Read it with Marine Policy (67), which explains why inclusiveness mattered, and with ReCAAP's 2025 data (66).
+
+     Reliability: A primary legal text, but its main limit is that Malaysia and Indonesia, the two biggest coastal states, are not parties.
+
+77. **Ministry of Defence / Republic of Singapore Navy (2025). Reply to media query on increase in piracy in Singapore waters.** MINDEF. [link](https://www.mindef.gov.sg/news-and-events/latest-releases/13oct25-mq/) — **Grade B2** · Type: Official (Singapore government) · Period: 2025–26
+
+     Summary and analysis: Answering press questions on 13 October 2025, the Republic of Singapore Navy said there had been no piracy or sea robbery in Singapore's territorial waters in 2025. Robberies in the Singapore Strait fell from 14 in July to 2 in August and 1 in September. It names work with the Police Coast Guard, the MPA and the Information Fusion Centre, which shares information with regional partners. It is evidence on enforcement, information sharing and response speed in 2025–26: the fall followed Indonesian arrests on 9 July, about seven to nine months after the surge began in late 2024. Use the monthly figures, which match ReCAAP (66), but treat the "not in our waters" line as framing, not evidence.
+
+     Reliability: A government defending its record, and counting only its own territorial waters narrows the numbers.
+
+78. **Galgano, F.A. (2023). Hostis humani generis: pirates and global maritime commerce.** *Research in Globalization*, 8. [link](https://www.sciencedirect.com/science/article/pii/S2590051X23000783) — **Grade B2** · Type: Peer-reviewed journal article (open access) · Period: several
+
+     Summary and analysis: Using IMB annual reports, this Villanova geographer estimates a fall of nearly 75% in pirate activity in the Malacca and Singapore Straits and nearby Indonesian waters. He credits coordinated patrols and better information sharing, and places piracy within globalisation and governance. It is the clearest academic statement of the "cooperation worked" thesis, and supports the incidents measure and the joint-operations and information-sharing factors. Use it as the claim you then test. The Marine Policy critique (70) and the tsunami evidence (69) challenge its causal credit, and a 2023 Heliyon study suggests piracy was moved elsewhere rather than removed. Its US$18bn annual cost of piracy also conflicts with other estimates, so do not rely on it for costs.
+
+     Reliability: A Villanova geographer in a mid-tier open-access journal, and other studies (Marine Policy 2026, Heliyon 2023) challenge its credit to cooperation.
+
+79. **RSIS (2005–2015). Commentaries CO05057 "Malacca Straits: a war risk?", Ho (2009) and CO15082 "Expanding maritime patrols in Southeast Asia".** RSIS, Nanyang Technological University. [link](https://rsis.edu.sg/rsis-publication/rsis/718-malacca-straits-a-war-risk/) — **Grade B2** · Type: Think tank (Singapore) · Period: several
+
+     Summary and analysis: These Singapore think-tank commentaries span the case. CO05057 was written when Lloyd's listed the strait as a war-risk area in 2005, so it is evidence from the time on the war-risk premium measure and the JWC factor. Joshua Ho (2009) credits the Malacca Straits Patrols with cutting piracy but warns there is "no guarantee" it will not return, and CO15082 discusses widening the patrols, with Malaysia inviting Myanmar to observe. Use them for the joint-operations factor and the insurance debate, and use Ho's warning as a bridge to the 2025 surge (66). They echo the official Singapore view (74, 77), so balance them with Malaysiakini (84) and CIMSEC (80).
+
+     Reliability: A respected Singapore think tank close to the government, so it may over-credit the patrols.
+
+80. **CIMSEC (c. 2014). It's the economy: exploring Indonesia's piracy problem.** Center for International Maritime Security. [link](https://cimsec.org/economy-stupid-exploring-indonesias-piracy-problem/) — **Grade C2** · Type: Think tank (naval-affairs analysis) · Period: fall
+
+     Summary and analysis: This analysis argues that piracy off Indonesia is mainly an economic problem that force cannot fix. It points to Indonesian incidents rising from 15 in 2009 to 106 in 2013 while the joint patrols were running. It is the only candidate that argues directly for Indonesia's economy as an alternative factor, and a strong counter-example to the claim that patrols alone control likelihood. Use it to link the 1999–2000 surge to the Asian financial crisis and to stress poverty and governance on land. Note its own weakness: the 2009–13 rise came while Indonesia's economy was growing. ReCAAP's 2025 data (66) likewise show incidents rising inside a working cooperative system.
+
+     Reliability: A naval-affairs forum, not peer-reviewed, and the author, date and figures were not checked.
+
+81. **RSIS / IDSS (2004). Operationalising the Regional Maritime Security Initiative.** IDSS Commentaries. [link](https://rsis.edu.sg/rsis-publication/idss/614-operationalising-the-regional/) — **Grade B2** · Type: Think tank (Singapore) · Period: peak
+
+     Summary and analysis: Written in May 2004, at the height of the sovereignty row, this commentary explains that the RMSI grew from US Admiral Fargo's March 2004 plan to put special forces on fast boats in the strait, and that the region saw outside patrols as breaking transit-passage rules. It is evidence from the time on why the formal frameworks took the shape they did, and on why the response was slow. Use it with the Straits Times (82) to reconstruct the 2004 debate: Singapore was most open to US help, while Malaysia and Indonesia were not. MALSINDO (75) followed within two months as the coastal states' own alternative. Marine Policy (67) gives the later academic verdict on the same episode.
+
+     Reliability: Written at the time by a Singapore think tank, and since Singapore was most open to US help it may play down the opposition.
+
+82. **The Straits Times (2004). Malaysia rules out direct foreign policing of the strait.** The Straits Times (Singapore), via NewspaperSG. [link](https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20040428-1) — **Grade C1** · Type: Regional perspective (Singapore press, Malaysian position) · Period: peak
+
+     Summary and analysis: This report from April 2004 records Malaysia's rejection of foreign forces policing the strait: "The issue of security should not be an excuse to compromise on sovereignty." It is the clearest Malaysian voice in the 2004–06 sovereignty debate, and it shows Singapore being grouped with the US position. It is evidence for the formal-frameworks and joint-operations factors, because it explains why cooperation stayed coordinated and national, without cross-border hot pursuit. Use the quotation to show that the coastal states would accept only their own patrols, which limited enforcement but gave them ownership. Its view matches Marine Policy (67) and RSIS/IDSS (81). Find the exact article in the NewspaperSG issue before citing it.
+
+     Reliability: A government-linked Singapore paper from the time, but the link opens the whole day's issue, so the exact article must be checked.
+
+83. **Malay Mail (2026). Could the Strait of Malacca be next? What Hormuz's closure means for the world's busiest chokepoint.** Malay Mail (Malaysia). [link](https://www.malaymail.com/news/malaysia/2026/04/23/could-the-strait-of-malacca-be-next-what-hormuzs-closure-means-for-the-worlds-busiest-chokepoint/217417) — **Grade C1** · Type: Regional perspective (Malaysian press) · Period: 2025–26
+
+     Summary and analysis: This Malaysian explainer puts Malacca's importance in figures: about 23.2 million barrels of oil a day in early 2025, against 20.9 million through Hormuz, and more than 102,500 transits in 2025. Meanwhile ReCAAP-reported crime rose to at least 104 incidents before falling in early 2026. It is evidence for the trade-reduction measure, because traffic hit a record despite the robbery surge, and for connected crises, since the Hormuz closure raised fears for Malacca. Use it to show that severity stayed minimal: crime never cut trade. Its figures match the Jakarta Post and Seatrade. Kompas later reported oil flows falling to 16.6 million barrels a day because of Hormuz, not crime.
+
+     Reliability: Probably Reuters-based, so its figures match other reports but come second-hand from the EIA and ReCAAP.
+
+84. **Malaysiakini (c. 2005–06). Less piracy in Malacca Straits.** Malaysiakini (Malaysia). [link](https://www.malaysiakini.com/news/43847) — **Grade C3** · Type: Regional perspective (Malaysian press) · Period: fall
+
+     Summary and analysis: This Malaysian report quotes IMB director Pottengal Mukundan linking the late-2005 drop in attacks to more Indonesian national patrols on Indonesia's side of the strait (Operation Gurita). He warned that piracy returns "when it goes off the agenda". Reports found alongside it also link the fall off Belawan to the August 2005 Aceh peace deal, although no source establishes that link. It is evidence for enforcement, but national rather than multilateral, and for the Aceh alternative factor. Use it with the tsunami report (69) to complicate the "patrols worked" story, and use the warning to explain the 2023–25 rise (66). Take attack figures from IMB reports, because counts differ between versions.
+
+     Reliability: An independent outlet quoting the IMB, but only a snippet was seen, it is undated, and attack counts differ between reports.
+
+85. **Antara (c. 2011–12). Piracy rate in Malacca Strait down sharply: defense minister.** Antara (Indonesia). [link](https://en.antaranews.com/news/78803/piracy-rate-in-malacca-strait-down-sharply-defense-minister) — **Grade D2** · Type: Regional perspective (Indonesian state media; framing only) · Period: fall
+
+     Summary and analysis: Indonesia's state news agency reports the defence minister crediting four-nation sea and air patrols with steadily cutting crime since 2005. He cited ReCAAP (35 incidents in 2005 to 0 in 2011) and the IMB (38 in 2004 to 0). This is the one D-grade source, included only as evidence of framing: it shows how Indonesia, once a leading objector to outside patrols, came to present the coastal states' model as a success. Use it for Indonesia's official story of the fall, not for figures. The IMB's 2011 report records 1 attack that year, and the claim ignores the tsunami and Aceh. Compare it with the Marine Policy critique (70) and the tsunami report (69).
+
+     Reliability: State media relaying a minister's claim, so the zero figures must be checked against the original ReCAAP and IMB reports.
