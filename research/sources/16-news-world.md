@@ -157,7 +157,7 @@ Focus: Hormuz 2026 and Red Sea 2023–26, plus some Malacca and China "Malacca d
 
 **China's escort missions (background):** the PLA Navy's Gulf of Aden escort task forces have run since December 2008. The 46th task force (destroyer Jiaozuo, frigate Xuchang, supply ship Honghu) was on station in early 2024 during the Red Sea crisis, and the 47th left Zhoushan in December 2024 (South24, citing Xinhua). These ships escort mainly Chinese ships and have not joined Prosperity Guardian or Aspides. Secondary source: https://maritime-executive.com/article/china-continues-gulf-of-aden-security-mission-by-dispatching-49th-fleet (Maritime Executive, August 2026).
 
-**"Malacca dilemma" note:** I found no SCMP or Caixin article on this. Non-Chinese 2026 analyses include Foreign Policy, "China's Malacca Dilemma, After the Hormuz Blockade" (11 May 2026, https://foreignpolicy.com/2026/05/11/china-oil-economy-insurance-hormuz-strait-malacca-dilemma/); The Diplomat, "The Hormuz Crisis and China's Energy Security Dilemma" (May 2026); and the Taipei Times editorial in item 132. Foreign Policy argues Western-dominated insurance can choke China's oil more effectively than warships.
+**"Malacca dilemma" note:** I found no SCMP or Caixin article on this. Non-Chinese 2026 analyses include Foreign Policy, "China's Malacca Dilemma, After the Hormuz Blockade" (11 May 2026, https://foreignpolicy.com/2026/05/11/china-oil-economy-insurance-hormuz-strait-malacca-dilemma/); The Diplomat, "The Hormuz Crisis and China's Energy Security Dilemma" (May 2026); and the Taipei Times editorial in item 140. Foreign Policy argues Western-dominated insurance can choke China's oil more effectively than warships.
 
 ---
 
@@ -477,21 +477,38 @@ Focus: Hormuz 2026 and Red Sea 2023–26, plus some Malacca and China "Malacca d
     - Summary: Merz said any German role needs at least a provisional ceasefire plus cabinet and Bundestag approval. The offer included minehunters, an escort ship and reconnaissance aircraft.
     - Supports: C-H. Formal frameworks; response speed.
 
+92. **"Bundeswehr in der Straße von Hormus: Ohne Bundestag geht es nicht"** (Bundeswehr in the Strait of Hormuz: nothing happens without the Bundestag). taz, Germany, 17 June 2026. https://taz.de/Bundeswehr-in-der-Strasse-von-Hormus/!6188294/
+    - Summary: Any German mine-clearing deployment needs both a Bundestag vote and an international mandate. The government was looking at a March UN Security Council resolution, which does not explicitly authorise mine clearance. The minehunter *Fulda* left for the Mediterranean in early May, 7–10 days' sailing from Hormuz. Defence Minister Pistorius had said in March: "It is not our war, we did not start it."
+    - Perspective: Left-leaning independent daily. It stresses parliamentary control and legal limits.
+    - Supports: C-H. Formal frameworks (UN mandate, parliament); response speed.
+
 ---
 
 ## 9. GREECE
 
 **Note:** Kathimerini was blocked. Greece controls one of the world's largest merchant fleets.
 
-92. **"Greek Shipowners in the 'Line of Fire'"**. The National Herald (Greek-American, New York), Greece/diaspora, 2026. https://www.thenationalherald.com/greek-shipowners-in-the-line-of-fire-when-risk-promises-massive-profits/
+93. **"Greek Shipowners in the 'Line of Fire'"**. The National Herald (Greek-American, New York), Greece/diaspora, 2026. https://www.thenationalherald.com/greek-shipowners-in-the-line-of-fire-when-risk-promises-massive-profits/
     - Summary: Some Greek owners (Dynacom, Prokopiou) sent tankers through Hormuz because charters could earn about $500,000 a day. At least 16 ships had been attacked, Greek-operated ones among them. Greece's foreign minister opposed separate passage deals with Iran.
     - Perspective: Greek shipping chases profit, while the Greek state backs collective EU rules.
     - Supports: C-H. Freight rates (likelihood measure); war-risk insurance; formal frameworks (no side deals).
 
-93. **"Houthis Agree to Ensure Safe Passage of Russian and Chinese Ships in Red Sea and Gulf of Aden"**. To Vima, Greece, January 2024. https://www.tovima.com/politics/houthis-agree-to-ensure-safe-passage-of-russian-and-chinese-ships-in-red-sea-and-gulf-of-aden/amp/
+94. **"Houthis Agree to Ensure Safe Passage of Russian and Chinese Ships in Red Sea and Gulf of Aden"**. To Vima, Greece, January 2024. https://www.tovima.com/politics/houthis-agree-to-ensure-safe-passage-of-russian-and-chinese-ships-in-red-sea-and-gulf-of-aden/amp/
     - Summary: Reports the Houthi pledge, made to Russia's Izvestia, that Chinese and Russian ships with no Israeli links would be safe.
     - Perspective: Greek owners, mostly Western-linked, were exposed while rivals were spared.
     - Supports: C-RS. Threat type (selective targeting).
+
+95. **"Four Vessels Struck in the Strait of Hormuz, Including Greek-Owned Ship"**. GreekReporter.com, Greece (Greek and diaspora news site), 2 March 2026. https://greekreporter.com/2026/03/02/four-vessels-struck-strait-hormuz-including-greek-owned-ship/
+    - Summary: In the first days of the war, a ship owned by a Vouliagmeni-based Greek company was among four vessels hit. Shipping minister Vassilis Kikilias called the situation "alarming", said targeting seafarers was unacceptable, and said the ministry had advised ships to avoid the area. Other reports put more than 325 Greek-linked ships in the wider high-risk zone.
+    - Supports: C-H. Incidents; information sharing (state advisories to the fleet).
+
+96. **"Ten Greek-flagged ships with 85 Greek seafarers in Persian Gulf"**. Shipping Telegraph (republishing Hellenic Shipping News), Greece, March 2026. https://shippingtelegraph.com/hellenic-shipping-news/ten-greek-flagged-ships-with-85-greek-seafarers-in-persian-gulf/
+    - Summary: The Greek shipping ministry counted 10 Greek-flagged ships with 85 Greek crew trapped inside the Gulf.
+    - Supports: C-H. Length of disruption (stranded ships and crews).
+
+97. **"Second Greek-linked ship hit in Hormuz within days"**. Cyprus Mail, Cyprus (covering Greek shipping), 6 October 2026. https://cyprus-mail.com/2026/10/06/second-greek-linked-ship-hit-in-hormuz-within-days
+    - Summary: A Greek-flagged LNG carrier controlled by the Angelicoussis group was hit by an unidentified projectile while leaving the strait, part of the October escalation.
+    - Supports: C-H. Incidents (likelihood remains high even after the ceasefire).
 
 ---
 
@@ -499,15 +516,32 @@ Focus: Hormuz 2026 and Red Sea 2023–26, plus some Malacca and China "Malacca d
 
 **Note:** the BBC, Guardian, Telegraph and FT were all blocked, and no articles from them came up in general searches. These are the UK items I could confirm.
 
-94. **"Does Royal Navy's Strait of Hormuz deployment mark new era of maritime warfare?"**. Forces News (British Forces Broadcasting Service), UK, 2026. https://www.forcesnews.com/services/navy/does-royal-navy-strait-hormuz-deployment-mark-new-era-maritime-warfare
+98. **"Does Royal Navy's Strait of Hormuz deployment mark new era of maritime warfare?"**. Forces News (British Forces Broadcasting Service), UK, 2026. https://www.forcesnews.com/services/navy/does-royal-navy-strait-hormuz-deployment-mark-new-era-maritime-warfare
     - Summary: Looks at the UK sending autonomous mine-hunting drones and the mothership RFA *Lyme Bay* (which left Gibraltar in late May 2026 with more than 100 specialists) for the France–UK mission.
     - Bias: Forces News is funded through the Ministry of Defence's broadcasting service and supports the military.
     - Supports: C-H. Technology (drone mine-hunting); joint operations.
 
-95. **"Two Chinese tankers exit Hormuz as US and Iran trade threats"**. Lloyd's List, UK (shipping trade press), 2026. https://www.lloydslist.com/LL1157224/Two-Chinese-tankers-exit-Hormuz-as-US-and-Iran-trade-threats
+99. **"Two Chinese tankers exit Hormuz as US and Iran trade threats"**. Lloyd's List, UK (shipping trade press), 2026. https://www.lloydslist.com/LL1157224/Two-Chinese-tankers-exit-Hormuz-as-US-and-Iran-trade-threats
     - Summary: COSCO's *Yuan Gui Yang* and the tanker *Ocean Lily* used the Iran-approved corridor south of Larak Island, after 10 Chinese-owned ships broke out the previous week.
     - Bias: Specialist, highly reliable. Paywalled.
     - Supports: C-H. Selective passage; information sharing (AIS tracking).
+
+100. **"VLCC operators rethink Red Sea voyages amid fresh Houthi blockade"**. Lloyd's List, UK, July 2026. https://www.lloydslist.com/LL1157928/VLCC-operators-rethink-Red-Sea-voyages-amid-fresh-Houthi-blockade
+    - Summary: Tanker owners reconsidered Red Sea voyages after the Houthis "banned" Saudi ports from 20 July 2026. Lloyd's List Intelligence expected Saudi-owned fleets (Bahri, Aramco) to be the first targets.
+    - Bias: Specialist trade press; paywalled.
+    - Supports: C-RS (2026). Threat type (targeting by trade pattern); freight rates.
+
+101. **"Tanker hit as Houthis launch attacks on Saudi-linked vessels"**. Lloyd's List, UK, 23 July 2026 (approx.). https://www.lloydslist.com/LL1157955/Tanker-hit-as-Houthis-launch-attacks-on-Saudi-linked-vessels
+    - Summary: The Saudi-flagged tanker *Encelia* was hit by projectiles in the first attack of the new blockade.
+    - Supports: C-RS (2026). Incidents.
+
+102. **"Red Sea traffic holds firm despite Houthi blockade as UN warns Yemen on brink of renewed war"**. Lloyd's List, UK, about late September 2026 (approx.). https://www.lloydslist.com/LL1158196/Red-Sea-traffic-holds-firm-despite-Houthi-blockade-as-UN-warns-Yemen-on-brink-of-renewed-war
+    - Summary: Apart from Saudi-linked tankers, Red Sea traffic held up. Mainstream tanker transits fell 42% in the first week of the blockade. A related Lloyd's List Intelligence brief (1 October 2026) gives a four-week average of about 280 Bab el-Mandeb transits a week and notes that Aspides rates the general threat as medium but high for Saudi-, US- and Israel-linked ships.
+    - Supports: C-RS (2026). Trade reduction (limited and selective); information sharing (Aspides and JMIC threat ratings).
+
+103. **"Red Sea Brief – 1 October 2026"**. Lloyd's List Intelligence, UK, 1 October 2026. https://www.lloydslistintelligence.com/resources/blog/red-sea-brief-1-october-2026
+    - Summary: Tankers that had operated "dark" near Yanbu reappeared laden. Satellite images confirm large crude tankers back at Yanbu terminals. No attacks had been reported since a Bahri VLCC was hit off Yanbu on 24 August.
+    - Supports: C-RS (2026). Length of disruption; physical alternatives (the Saudi East–West pipeline to Yanbu).
 
 ---
 
@@ -515,52 +549,52 @@ Focus: Hormuz 2026 and Red Sea 2023–26, plus some Malacca and China "Malacca d
 
 **Note:** the NYT and WSJ were blocked. CNN, the Washington Post, CNBC, Newsweek and NPR are below.
 
-96. **"Visualizing shipping through the Strait of Hormuz since war began"**. CNN, USA, 29 April 2026. https://www.cnn.com/2026/04/29/world/iran-war-gulf-hormuz-shipping-maps-intl-vis
+104. **"Visualizing shipping through the Strait of Hormuz since war began"**. CNN, USA, 29 April 2026. https://www.cnn.com/2026/04/29/world/iran-war-gulf-hormuz-shipping-maps-intl-vis
     - Summary: Maps of the collapse in tanker traffic.
     - Supports: C-H. Trade reduction (good for visuals).
 
-97. **"60 targets struck, 18M barrels of oil protected: The US military's record day in the Strait of Hormuz"**. CNN, USA, 2 September 2026. https://www.cnn.com/2026/09/02/politics/latest-us-strikes-against-iran-marked-a-shift-in-strategy
+105. **"60 targets struck, 18M barrels of oil protected: The US military's record day in the Strait of Hormuz"**. CNN, USA, 2 September 2026. https://www.cnn.com/2026/09/02/politics/latest-us-strikes-against-iran-marked-a-shift-in-strategy
     - Summary: US forces moved to actively guiding tankers through and striking Iranian targets.
     - Perspective: US military power as the solution.
     - Supports: C-H. Joint operations (US-led escort); enforcement.
 
-98. **"Iran has lost considerable leverage in the Strait of Hormuz. It can't go on like this forever"**. CNN, USA, 29 September 2026. https://www.cnn.com/2026/09/29/economy/oil-strait-of-hormuz-iran
+106. **"Iran has lost considerable leverage in the Strait of Hormuz. It can't go on like this forever"**. CNN, USA, 29 September 2026. https://www.cnn.com/2026/09/29/economy/oil-strait-of-hormuz-iran
     - Summary: Argues that US-guided "dark" transits and the blockade weakened Iran's grip. Kpler data show Hormuz crude exports reached pre-war levels in September.
     - Supports: C-H. Enforcement; trade recovery.
 
-99. **"Strait of Hormuz: After more oil left the Gulf, Iran tries to regain its stranglehold on shipping"**. CNN, USA, 11 October 2026. https://www.cnn.com/2026/10/11/middleeast/iran-hormuz-oil-analysis-intl
+107. **"Strait of Hormuz: After more oil left the Gulf, Iran tries to regain its stranglehold on shipping"**. CNN, USA, 11 October 2026. https://www.cnn.com/2026/10/11/middleeast/iran-hormuz-oil-analysis-intl
     - Summary: Six ships were struck in one day, the most since the war began.
     - Supports: C-H. Incidents (likelihood).
 
-100. **"How the US-Iran war upended two critical global trade routes"**. CNN, USA, 17 October 2026. https://www.cnn.com/2026/10/17/economy/us-iran-war-shipping-trade-hormuz-bab-el-mandab-strait-intl-vis
+108. **"How the US-Iran war upended two critical global trade routes"**. CNN, USA, 17 October 2026. https://www.cnn.com/2026/10/17/economy/us-iran-war-shipping-trade-hormuz-bab-el-mandab-strait-intl-vis
      - Summary: A visual explainer on both Hormuz and Bab el-Mandeb disruption.
      - Supports: C-H and C-RS. Connected crises; trade reduction.
 
-101. **"Iranian attacks sink two ships in Strait of Hormuz"**. The Washington Post, USA, 14 October 2026. https://www.washingtonpost.com/world/2026/10/14/iranian-attack-sinks-container-ship-strait-hormuz/
+109. **"Iranian attacks sink two ships in Strait of Hormuz"**. The Washington Post, USA, 14 October 2026. https://www.washingtonpost.com/world/2026/10/14/iranian-attack-sinks-container-ship-strait-hormuz/
      - Summary: October is one of the most violent months since the war began. The Singapore-flagged *GFS Pride* sank, and its 21 crew were saved.
      - Supports: C-H. Incidents.
 
-102. **"Iran increases threat to Strait of Hormuz shipping, and other Middle East developments"**. The Washington Post (AP roundup), USA, 13 October 2026. https://www.washingtonpost.com/national/2026/10/13/saudi-arabia-yemen-houthis-october-13-2026/67e392ca-c6cf-11f1-aefb-abe4112d087e_story.html
+110. **"Iran increases threat to Strait of Hormuz shipping, and other Middle East developments"**. The Washington Post (AP roundup), USA, 13 October 2026. https://www.washingtonpost.com/national/2026/10/13/saudi-arabia-yemen-houthis-october-13-2026/67e392ca-c6cf-11f1-aefb-abe4112d087e_story.html
      - Summary: UKMTO reported 12 attacks in a week. Kpler flows averaged 13.1 million barrels a day against 17.1 million before the war. Oil stays above $100.
      - Supports: C-H. Incidents; trade reduction; Brent price.
 
-103. **"Oil tanker arrives in South Korea after passing through the Strait of Hormuz in mid-April"**. The Washington Post (AP), USA, 8 May 2026. https://www.washingtonpost.com/business/2026/05/08/south-korea-oil-tanker-iran-hormuz/876bef2c-4a9a-11f1-a119-857cd2bf4fd4_story.html
+111. **"Oil tanker arrives in South Korea after passing through the Strait of Hormuz in mid-April"**. The Washington Post (AP), USA, 8 May 2026. https://www.washingtonpost.com/business/2026/05/08/south-korea-oil-tanker-iran-hormuz/876bef2c-4a9a-11f1-a119-857cd2bf4fd4_story.html
      - Supports: C-H. Length of disruption.
 
-104. **"How the Houthi militia weaponized shipping in the Red Sea"** (opinion; headline taken from the URL). The Washington Post, USA, 17 August 2026. https://www.washingtonpost.com/opinions/2026/08/17/how-houthi-militia-weaponized-shipping-red-sea/
+112. **"How the Houthi militia weaponized shipping in the Red Sea"** (opinion; headline taken from the URL). The Washington Post, USA, 17 August 2026. https://www.washingtonpost.com/opinions/2026/08/17/how-houthi-militia-weaponized-shipping-red-sea/
      - Summary: Saudi tankers rerouted north to Yanbu, and Houthi attacks later reached them there.
      - Bias: Opinion piece.
      - Supports: C-RS (2026). Weakness of physical alternatives.
 
-105. **"China calls U.S. blockade of the Strait of Hormuz 'dangerous and irresponsible'"**. CNBC, USA, 14 April 2026. https://www.cnbc.com/2026/04/14/china-us-strait-of-hormuz-war-donald-trump-oil-energy-crisis-conflict-middle-east-iran.html
+113. **"China calls U.S. blockade of the Strait of Hormuz 'dangerous and irresponsible'"**. CNBC, USA, 14 April 2026. https://www.cnbc.com/2026/04/14/china-us-strait-of-hormuz-war-donald-trump-oil-energy-crisis-conflict-middle-east-iran.html
      - Summary: Beijing condemned the US blockade and called for a full ceasefire as the only way to ease the strait.
      - Supports: C-H. Clash of great powers (no multilateral consensus).
 
-106. **"Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says"**. CNBC, USA, 22 July 2026. https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html
+114. **"Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says"**. CNBC, USA, 22 July 2026. https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html
      - Summary: Yanbu exports through Bab el-Mandeb surged to 3.5 million barrels a day in June (Kpler). The EU-linked JMIC rated the threat "moderate".
      - Supports: C-RS (2026). Information sharing (JMIC); connected crises.
 
-107. **"Container ship sinks in Strait of Hormuz as Iran steps up attacks"**. CNBC, USA, 14 October 2026. https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html
+115. **"Container ship sinks in Strait of Hormuz as Iran steps up attacks"**. CNBC, USA, 14 October 2026. https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html
      - Summary: The IMO counts this as the third ship sunk in the war. Hormuz exports averaged 8.5 million barrels a day in the week to 12 October, about 40% below normal (Kpler).
      - Supports: C-H. Incidents; trade reduction.
 
@@ -570,29 +604,29 @@ Focus: Hormuz 2026 and Red Sea 2023–26, plus some Malacca and China "Malacca d
 
 **Note:** ABC is the public broadcaster and SBS a public multicultural broadcaster. Both are editorially independent.
 
-108. **"How a war in the Middle East caused Australia's sudden fuel price hikes"**. ABC News, Australia, 10 March 2026. https://www.abc.net.au/news/2026-03-10/why-fuel-prices-are-going-up-australia/106437844
+116. **"How a war in the Middle East caused Australia's sudden fuel price hikes"**. ABC News, Australia, 10 March 2026. https://www.abc.net.au/news/2026-03-10/why-fuel-prices-are-going-up-australia/106437844
      - Summary: Explains how the Hormuz shock passes through to Australian pump prices. Australia imports about 90% of its refined fuel.
      - Supports: C-H. Price level; trade concentration.
 
-109. **"Fuel rationing a chance in Australia if war continues to trim global oil supplies, experts say"**. ABC News, Australia, 16 March 2026. https://www.abc.net.au/news/2026-03-16/fuel-rationing-on-the-horizon-in-australia-if-iran-war-continues/106452562
+117. **"Fuel rationing a chance in Australia if war continues to trim global oil supplies, experts say"**. ABC News, Australia, 16 March 2026. https://www.abc.net.au/news/2026-03-16/fuel-rationing-on-the-horizon-in-australia-if-iran-war-continues/106452562
      - Supports: C-H. Severity (supply risk).
 
-110. **"Singapore's major oil source is blocked and experts warn Australians will pay"**. ABC News, Australia, 2 April 2026. https://www.abc.net.au/news/2026-04-02/singapore-oil-refineries-energy-shock-response/106504438
+118. **"Singapore's major oil source is blocked and experts warn Australians will pay"**. ABC News, Australia, 2 April 2026. https://www.abc.net.au/news/2026-04-02/singapore-oil-refineries-energy-shock-response/106504438
      - Summary: Singapore's refineries, Australia's main petrol source, depend on Gulf crude. The Hormuz shock travels along the Malacca supply chain.
      - Supports: C-H and C-M link. Supply-chain design.
 
-111. **"'It's a cutthroat business': Where Australia is sourcing oil right now"**. ABC News, Australia, 11 April 2026. https://www.abc.net.au/news/2026-04-11/australia-fuel-supply-strait-hormuz-crisis/106533982
+119. **"'It's a cutthroat business': Where Australia is sourcing oil right now"**. ABC News, Australia, 11 April 2026. https://www.abc.net.au/news/2026-04-11/australia-fuel-supply-strait-hormuz-crisis/106533982
      - Summary: Australia released emergency stocks (about six days of petrol and five of diesel), used export-finance guarantees and signed supply deals with Brunei, South Korea and Malaysia.
      - Supports: C-H. Supply-chain design; cooperation (bilateral fuel deals; IEA stock release).
 
-112. **"Federal politics: Australia's assistance in Strait of Hormuz rests on permanent ceasefire: Marles"**. ABC News, Australia, 10 April 2026. https://www.abc.net.au/news/2026-04-10/federal-politics-live-fuel-singapore-albanese-iran/106549564
+120. **"Federal politics: Australia's assistance in Strait of Hormuz rests on permanent ceasefire: Marles"**. ABC News, Australia, 10 April 2026. https://www.abc.net.au/news/2026-04-10/federal-politics-live-fuel-singapore-albanese-iran/106549564
      - Summary: Defence minister Marles said any Australian naval help depends on a permanent ceasefire. The same condition was set by Japan, Germany and Italy.
      - Supports: C-H. Formal frameworks; response speed.
 
-113. **"Anthony Albanese braces for economic consequences from protracted Strait of Hormuz blockade"**. ABC News, Australia, 17 April 2026. https://www.abc.net.au/news/2026-04-17/anthony-albanese-fuel-and-fetrtiliser-deals-strait-of-hormuz/106573904
+121. **"Anthony Albanese braces for economic consequences from protracted Strait of Hormuz blockade"**. ABC News, Australia, 17 April 2026. https://www.abc.net.au/news/2026-04-17/anthony-albanese-fuel-and-fetrtiliser-deals-strait-of-hormuz/106573904
      - Supports: C-H. Severity; fertiliser as a connected effect.
 
-114. **"Middle East shipping escalation about to hit every Australian wallet"**. SBS News, Australia, 2026 (search suggests September). https://www.sbs.com.au/news/article/australia-fuel-petrol-prices-middle-east-war-oil-inflation/wczp6rjwr
+122. **"Middle East shipping escalation about to hit every Australian wallet"**. SBS News, Australia, 2026 (search suggests September). https://www.sbs.com.au/news/article/australia-fuel-petrol-prices-middle-east-war-oil-inflation/wczp6rjwr
      - Summary: Average unleaded at $2.11 a litre, against $1.55 earlier. Panic buying doubled demand at some stations.
      - Supports: C-H. Price level / inflation.
 
@@ -602,31 +636,31 @@ Focus: Hormuz 2026 and Red Sea 2023–26, plus some Malacca and China "Malacca d
 
 **Note:** Clarín, Folha and El Universal were unreachable. These are other mainstream outlets from the same countries.
 
-115. **"Derrumbe del petróleo: qué pasará con los precios de la nafta y el gasoil tras la reapertura del estrecho de Ormuz"** (Oil price collapse: what will happen to petrol and diesel prices after Hormuz reopens). Infobae, Argentina, 17 April 2026. https://www.infobae.com/economia/2026/04/17/derrumbe-del-petroleo-que-pasara-con-los-precios-de-la-nafta-y-el-gasoil-tras-la-reapertura-del-estrecho-de-ormuz/
+123. **"Derrumbe del petróleo: qué pasará con los precios de la nafta y el gasoil tras la reapertura del estrecho de Ormuz"** (Oil price collapse: what will happen to petrol and diesel prices after Hormuz reopens). Infobae, Argentina, 17 April 2026. https://www.infobae.com/economia/2026/04/17/derrumbe-del-petroleo-que-pasara-con-los-precios-de-la-nafta-y-el-gasoil-tras-la-reapertura-del-estrecho-de-ormuz/
      - Summary: YPF froze petrol prices for 45 days and the government suspended a planned fuel-tax rise. Economist Nadin Argañaraz estimated that without the suspension, premium petrol in Buenos Aires would have reached about ARS 2,250 a litre.
      - Supports: C-H. Price level (passed through to a distant oil producer).
 
-116. **"La nafta en Argentina alcanzó un precio récord en dólares, pese al 'operativo surtidor' de Caputo"** (Petrol in Argentina hits a record dollar price despite Caputo's pump plan). iProfesional, Argentina, 2026. https://www.iprofesional.com/energia/451681-precio-de-la-nafta-alcanzo-record-en-dolares-pese-al-operativo-surtidor-de-caputo
+124. **"La nafta en Argentina alcanzó un precio récord en dólares, pese al 'operativo surtidor' de Caputo"** (Petrol in Argentina hits a record dollar price despite Caputo's pump plan). iProfesional, Argentina, 2026. https://www.iprofesional.com/energia/451681-precio-de-la-nafta-alcanzo-record-en-dolares-pese-al-operativo-surtidor-de-caputo
      - Summary: CEPA data show petrol hit a record of about US$1.43 a litre in March 2026, about 52% above its historical average.
      - Supports: C-H. Price level.
 
-117. **"La nafta ya subió 6% en la Argentina desde el inicio del conflicto en Medio Oriente"** (Petrol has already risen 6% in Argentina since the Middle East conflict began; headline approximated from the URL). Diario de Cuyo, Argentina, 9 March 2026. https://www.diariodecuyo.com.ar/economia/la-nafta-ya-subio-6-la-argentina-el-inicio-del-conflicto-medio-oriente-n6567727
+125. **"La nafta ya subió 6% en la Argentina desde el inicio del conflicto en Medio Oriente"** (Petrol has already risen 6% in Argentina since the Middle East conflict began; headline approximated from the URL). Diario de Cuyo, Argentina, 9 March 2026. https://www.diariodecuyo.com.ar/economia/la-nafta-ya-subio-6-la-argentina-el-inicio-del-conflicto-medio-oriente-n6567727
      - Summary: Petrol rose 6% in the first days. The paper cites Kpler data showing tanker traffic through Hormuz fell about 90%.
      - Supports: C-H. Price level; trade reduction.
 
-118. **"¿Es cara la nafta en Argentina?: el precio por litro y la comparación con América Latina"** (Is petrol expensive in Argentina? Price per litre compared with Latin America). Rosario3, Argentina, 13 October 2026. https://www.rosario3.com/ecos365/noticias/es-cara-la-nafta-en-argentina-el-precio-por-litro-y-la-comparacion-con-america-latina-20261013-0005.html
+126. **"¿Es cara la nafta en Argentina?: el precio por litro y la comparación con América Latina"** (Is petrol expensive in Argentina? Price per litre compared with Latin America). Rosario3, Argentina, 13 October 2026. https://www.rosario3.com/ecos365/noticias/es-cara-la-nafta-en-argentina-el-precio-por-litro-y-la-comparacion-con-america-latina-20261013-0005.html
      - Summary: Fuel is up about 23% in dollar terms in 2026. Argentina ranks 16th of 30 Latin American countries.
      - Supports: C-H. Price level (length of the effect).
 
-119. **"La gasolina Premium supera los 30 pesos por el cierre del Estrecho de Ormuz, mientras la Magna permanece en 24 pesos hasta septiembre de 2026"** (Premium petrol passes 30 pesos because of the Hormuz closure, while Magna stays at 24 pesos until September 2026). El Imparcial, Mexico, 12 March 2026. https://www.elimparcial.com/dinero/2026/03/12/la-gasolina-premium-supera-los-30-pesos-por-el-cierre-del-estrecho-de-ormuz-mientras-la-magna-permanece-en-24-pesos-hasta-septiembre-de-2026/
+127. **"La gasolina Premium supera los 30 pesos por el cierre del Estrecho de Ormuz, mientras la Magna permanece en 24 pesos hasta septiembre de 2026"** (Premium petrol passes 30 pesos because of the Hormuz closure, while Magna stays at 24 pesos until September 2026). El Imparcial, Mexico, 12 March 2026. https://www.elimparcial.com/dinero/2026/03/12/la-gasolina-premium-supera-los-30-pesos-por-el-cierre-del-estrecho-de-ormuz-mientras-la-magna-permanece-en-24-pesos-hasta-septiembre-de-2026/
      - Summary: Mexico capped regular (Magna) petrol at MXN 24 a litre while premium passed MXN 30.
      - Supports: C-H. Price level; government price controls soften the impact.
 
-120. **"Si el estrecho de Ormuz está abierto, ¿por qué la gasolina y el diésel son tan caros?"** (If the Strait of Hormuz is open, why are petrol and diesel so expensive?). CNN en Español, USA/Latin America, 9 October 2026. https://cnnespanol.cnn.com/2026/10/09/economia/gasolina-diesel-precios-ormuz-trax
+128. **"Si el estrecho de Ormuz está abierto, ¿por qué la gasolina y el diésel son tan caros?"** (If the Strait of Hormuz is open, why are petrol and diesel so expensive?). CNN en Español, USA/Latin America, 9 October 2026. https://cnnespanol.cnn.com/2026/10/09/economia/gasolina-diesel-precios-ormuz-trax
      - Summary: Even with more oil moving, high freight and insurance costs and depleted stocks keep fuel prices high.
      - Supports: C-H. Freight rates and insurance drive prices (likelihood measures feed severity).
 
-121. **"Petróleo a US$ 95 com Ormuz sob ataque: o que muda para a Petrobras, para a bomba e para a inflação"** (Oil at US$95 with Hormuz under attack: what changes for Petrobras, pump prices and inflation). BM&C News, Brazil, 2 September 2026. https://bmcnews.com.br/petroleo-e-energia/petroleo-a-us-95-com-ormuz-sob-ataque-o-que-muda-para-a-petrobras-para-a-bomba-e-para-a-inflacao/
+129. **"Petróleo a US$ 95 com Ormuz sob ataque: o que muda para a Petrobras, para a bomba e para a inflação"** (Oil at US$95 with Hormuz under attack: what changes for Petrobras, pump prices and inflation). BM&C News, Brazil, 2 September 2026. https://bmcnews.com.br/petroleo-e-energia/petroleo-a-us-95-com-ormuz-sob-ataque-o-que-muda-para-a-petrobras-para-a-bomba-e-para-a-inflacao/
      - Summary: Abicom says Brazilian diesel was 88% (BRL 2.89 a litre) below the international price, because Petrobras and government subsidies hold prices down.
      - Bias: Financial-markets outlet.
      - Supports: C-H. Price level; state cushioning.
@@ -635,51 +669,51 @@ Focus: Hormuz 2026 and Red Sea 2023–26, plus some Malacca and China "Malacca d
 
 ## 14. REST OF THE WORLD (Gulf, Africa, Asia-Pacific)
 
-122. **"Iran shuts Hormuz strait: But wasn't it already closed?"**. Al Jazeera, Qatar, 11 June 2026. https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed
+130. **"Iran shuts Hormuz strait: But wasn't it already closed?"**. Al Jazeera, Qatar, 11 June 2026. https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed
      - Summary: Iran announced a full closure to all tankers and commercial ships after US strikes, having already declared it closed again on 18 April.
      - Bias: Qatari state-funded. Qatar's LNG exports were trapped.
      - Supports: C-H. Length of disruption (repeated closures).
 
-123. **"Is Iran charging a toll to allow oil traffic through Hormuz?"**. Al Jazeera, Qatar, 5 October 2026. https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz
+131. **"Is Iran charging a toll to allow oil traffic through Hormuz?"**. Al Jazeera, Qatar, 5 October 2026. https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz
      - Summary: Middle East oil exports climbed back above pre-war levels despite Iran's blockade attempts.
      - Supports: C-H. Trade reduction (recovery); threat type (toll versus closure).
 
-124. **"US and Iran both claim control of Strait of Hormuz amid attacks on vessels"**. Al Jazeera, Qatar, 17 October 2026. https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels
+132. **"US and Iran both claim control of Strait of Hormuz amid attacks on vessels"**. Al Jazeera, Qatar, 17 October 2026. https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels
      - Summary: UKMTO reported at least 12 ships attacked in the week to 16 October.
      - Supports: C-H. Incidents; information sharing (UKMTO).
 
-125. **"Can the Houthis close the Red Sea after seizing the Yemen coast?"**. Al Jazeera, Qatar, 11 September 2026. https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast
+133. **"Can the Houthis close the Red Sea after seizing the Yemen coast?"**. Al Jazeera, Qatar, 11 September 2026. https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast
      - Summary: The Houthis now have much firmer control of Bab el-Mandeb.
      - Supports: C-RS (2026). Threat type; likelihood.
 
-126. **"India pushes diplomacy to reopen Hormuz Strait as Trump urges naval escort"**. Gulf News, UAE, March 2026. https://gulfnews.com/world/mena/india-pushes-diplomacy-to-reopen-hormuz-strait-as-trump-urges-naval-escort-1.500476043
+134. **"India pushes diplomacy to reopen Hormuz Strait as Trump urges naval escort"**. Gulf News, UAE, March 2026. https://gulfnews.com/world/mena/india-pushes-diplomacy-to-reopen-hormuz-strait-as-trump-urges-naval-escort-1.500476043
      - Summary: A senior Indian official said direct talks with Iran were the most effective way to restart shipping.
      - Supports: C-H. Bilateral diplomacy versus multilateral escort.
 
-127. **"Shipping insurance surges again as attacks intensify over Strait of Hormuz"**. The National, UAE, 17 July 2026. https://www.thenationalnews.com/business/2026/07/17/war-risk-shipping-premium-surges-again-as-tensions-escalate-at-strait-of-hormuz/
+135. **"Shipping insurance surges again as attacks intensify over Strait of Hormuz"**. The National, UAE, 17 July 2026. https://www.thenationalnews.com/business/2026/07/17/war-risk-shipping-premium-surges-again-as-tensions-escalate-at-strait-of-hormuz/
      - Summary: Hormuz war-risk premiums jumped from 1–3% of hull value to 7.5–10% (Marsh). They were about 0.25% before the war.
      - Supports: C-H. War-risk insurance (a key likelihood measure).
 
-128. **"India's exporters struggle as Red Sea crisis favours rivals"**. BusinessLive (Reuters), South Africa, 16 February 2024. https://www.businesslive.co.za/bd/world/asia/2024-02-16-indias-exporters-struggle-as-red-sea-crisis-favours-rivals/
+136. **"India's exporters struggle as Red Sea crisis favours rivals"**. BusinessLive (Reuters), South Africa, 16 February 2024. https://www.businesslive.co.za/bd/world/asia/2024-02-16-indias-exporters-struggle-as-red-sea-crisis-favours-rivals/
      - Summary: About 95% of India-origin ships were rerouted via the Cape. Tirupur's textile hub ran at about a third of capacity. Small exporters have margins of 3–7%.
      - Supports: C-RS. Trade reduction; freight rates.
 
-129. **"India navy recaptures ship from Somali pirates and rescues crew"**. Ada Derana, Sri Lanka, March 2024. https://www.adaderana.lk/news/98018/india-navy-recaptures-ship-from-somali-pirates-and-rescues-crew
+137. **"India navy recaptures ship from Somali pirates and rescues crew"**. Ada Derana, Sri Lanka, March 2024. https://www.adaderana.lk/news/98018/india-navy-recaptures-ship-from-somali-pirates-and-rescues-crew
      - Summary: South Asian neighbour coverage of the MV Ruen rescue.
      - Supports: C-RS. Enforcement.
 
-130. **"S Korea to import over six million barrels of crude oil from UAE amid Gulf crisis"** (headline approximated from the URL). Malay Mail, Malaysia, 6 March 2026. https://www.malaymail.com/news/world/2026/03/06/s-korea-to-import-over-six-million-barrels-of-crude-oil-from-uae-amid-gulf-crisis/211598
+138. **"S Korea to import over six million barrels of crude oil from UAE amid Gulf crisis"** (headline approximated from the URL). Malay Mail, Malaysia, 6 March 2026. https://www.malaymail.com/news/world/2026/03/06/s-korea-to-import-over-six-million-barrels-of-crude-oil-from-uae-amid-gulf-crisis/211598
      - Summary: Korea bought crude loaded at a UAE port outside the strait (Fujairah, fed by the ADCOP pipeline).
      - Supports: C-H. Physical alternatives (pipelines).
 
-131. **"Japan undecided on sending military to Hormuz"**. The Standard, Hong Kong, June 2026. https://www.thestandard.com.hk/world/article/334791/Japan-undecided-on-sending-military-to-Hormuz
+139. **"Japan undecided on sending military to Hormuz"**. The Standard, Hong Kong, June 2026. https://www.thestandard.com.hk/world/article/334791/Japan-undecided-on-sending-military-to-Hormuz
      - Supports: C-H. Formal frameworks; response speed.
 
-132. **"How Asia should deal with the 'Malacca dilemma'"** (Bloomberg Opinion reprint). Taipei Times, Taiwan, 25 April 2026. https://www.taipeitimes.com/News/editorials/archives/2026/04/25/2003856197
+140. **"How Asia should deal with the 'Malacca dilemma'"** (Bloomberg Opinion reprint). Taipei Times, Taiwan, 25 April 2026. https://www.taipeitimes.com/News/editorials/archives/2026/04/25/2003856197
      - Summary: Argues the Hormuz crisis shows Asia's exposure to chokepoints and that Malacca is the bigger strategic risk.
      - Supports: C-M. Trade concentration; connected crises.
 
-133. **"India and the Widening Tanker Freight Squeeze"**. Cyprus Shipping News, Cyprus, 14 October 2026. https://cyprusshippingnews.com/2026/10/14/india-and-the-widening-tanker-freight-squeeze/
+141. **"India and the Widening Tanker Freight Squeeze"**. Cyprus Shipping News, Cyprus, 14 October 2026. https://cyprusshippingnews.com/2026/10/14/india-and-the-widening-tanker-freight-squeeze/
      - Summary: Late-September war-risk quotes were 6–9% for Hormuz, about 3% for Saudi-linked ships at Yanbu, and 0.2–0.3% for Red Sea transits with no Saudi link.
      - Supports: C-H and C-RS. War-risk insurance (a clear comparison across chokepoints).
 
@@ -703,4 +737,4 @@ For the EPQ, the most useful pattern is this: the biggest importers mostly relie
 
 ---
 
-**Total: 133 articles across 23 countries/territories (plus one pan-European outlet)** (China incl. Hong Kong, India, Japan, South Korea, Russia, France, Italy, Germany, Greece, UK, USA, Australia, Argentina, Mexico, Brazil, Qatar, UAE, plus single items from South Africa, Sri Lanka, Malaysia, Taiwan, Cyprus).
+**Total: 141 articles across 23 countries/territories (plus one pan-European outlet)** (China incl. Hong Kong, India, Japan, South Korea, Russia, France, Italy, Germany, Greece, UK, USA, Australia, Argentina, Mexico, Brazil, Qatar, UAE, plus single items from South Africa, Sri Lanka, Malaysia, Taiwan, Cyprus).
