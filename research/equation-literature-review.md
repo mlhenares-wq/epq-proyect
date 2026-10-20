@@ -70,7 +70,7 @@ This review covers the main published risk formulas and recommends the one to us
 
 Cox (2008a) shows that risk matrices have **poor resolution**: very different risks can get the same cell. Their inputs need subjective interpretation, so different users can give **opposite ratings** to the same risks. Matrices should be used "with caution, and only with careful explanations of embedded judgments". IMO FSA has the same weakness: a frequent minor event and a remote catastrophic one can get the same RI.
 
-**Relevance:** R = L × S on 1–5 gives only 14 distinct values between 1 and 25. Some, like 1 × 12 and 3 × 4, cannot even occur on a 5 × 5 grid. Averaging several indicators within each dimension, as here, gives continuous values and reduces the resolution problem. Use R to *compare and rank*, and always show the indicator scores behind it.
+**Relevance:** R = L × S on 1–5 gives only 14 distinct values between 1 and 25. Values such as 7, 11, 13 and 14 cannot occur at all. Averaging several indicators within each dimension, as here, gives continuous values and reduces the resolution problem. Use R to *compare and rank*, and always show the indicator scores behind it.
 
 ### 1.9 Composite-indicator method (OECD/JRC Handbook, 2008)
 
