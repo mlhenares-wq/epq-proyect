@@ -1,0 +1,209 @@
+1. **Lloyd's List (2026). Gulf war risk premiums topping double-digit millions of dollars per trip.** Lloyd's List, c. 11 March. [link](https://www.lloydslist.com/LL1156586/Gulf-war-risk-premiums-topping-double-digit-millions-of-dollars-per-trip) — **Grade B2** · Type: Trade press (2026) · Period: both
+
+    Summary and analysis: Reports that by about 11 March 2026 war cover for high-risk Gulf voyages was quoted at 7.5% of hull value, with brokers expecting 10% or more, against 0.15–0.25% before the war. That means over $10 million in premium for one supertanker trip, and seven-day cover was up tenfold. Crucially, it puts the Tanker War rate at about 5%, giving a direct cross-period benchmark for the war-risk premium measure. Use it as core likelihood evidence: premiums in 2026 went above the 1980s level despite far more formal cooperation (IEA, Resolution 2817, JMIC). Corroborate it with Bloomberg's report of about 5% by 19 March, Marsh via S&P Global (7.5–10% in July) and UPI's 1984 Kharg figures (item 10).
+
+    Reliability: Shipping paper of record quoting brokers, who earn commission on premiums and so gain when rates rise.
+
+2. **International Energy Agency (2026). IEA Member countries to carry out largest ever oil stock release amid market disruptions from Middle East conflict.** IEA press release, 11 March. [link](https://www.iea.org/news/iea-member-countries-to-carry-out-largest-ever-oil-stock-release-amid-market-disruptions-from-middle-east-conflict/) — **Grade A1** · Type: Official / primary (intergovernmental) · Period: 2026
+
+    Summary and analysis: After an emergency meeting on 10 March, all 32 IEA members unanimously agreed to release 400 million barrels from emergency stocks, the largest coordinated action in the agency's history and only its sixth. The trigger was Hormuz exports falling below 10% of pre-conflict levels; members hold over 1.2 billion barrels of public stocks. This is the strongest 2026 evidence for formal frameworks and response speed (11 days after the first strikes), and the clearest contrast with the Tanker War, when no collective release happened (the first was in 1991). Use it to support the claim that cooperation can reduce severity, then test it against CNBC (item 20): Brent closed above $100 the next day, and only about 330m barrels had been released by mid-October.
+
+    Reliability: The official announcement from the body that took the decision, widely confirmed, though it is written to calm markets and does not show the effect.
+
+3. **Robert S. Strauss Center, University of Texas (n.d.). Strait of Hormuz – Tanker War.** Strauss Center. [link](https://www.strausscenter.org/strait-of-hormuz-tanker-war/) — **Grade B2** · Type: Academic (university research summary) · Period: Tanker War
+
+    Summary and analysis: States that the Tanker War caused about a 25% drop in commercial shipping in the Gulf and a sharp rise in crude prices early in the conflict. Yet at its peak the campaign disrupted no more than about 2% of ships passing through the Gulf, and attacks sank or disabled under a quarter of the tankers hit. These are the key period-1 figures for trade reduction, price rise and incidents. Use it as a counter-argument: severity stayed low in the 1980s mainly because neither belligerent tried to close the strait, not because of cooperation. Compare it with the IEA's April 2026 loadings, down about 81% (item 8). Its price claim conflicts with historyofwar.org and *The National* (2020), so present that point as disputed.
+
+    Reliability: Neutral university research summary, but undated, and its price claim is disputed by other sources.
+
+4. **UN Security Council (1987). Resolution 598.** UN Digital Library, 20 July 1987. [link](https://digitallibrary.un.org/record/137345) — **Grade A1** · Type: Official / primary (UN resolution) · Period: Tanker War
+
+    Summary and analysis: The binding Iran–Iraq ceasefire resolution, adopted 15–0 under Articles 39–40 of the UN Charter, which deplores attacks on neutral shipping. Iran accepted it only in July 1988, and the ceasefire took effect on 20 August 1988, ending the Tanker War. It is the core primary evidence for the formal-frameworks factor in period 1, and it shows a great-power unity that was missing in 2026, when China and Russia abstained on Resolution 2817 and vetoed a second draft. Use it as context and partial support: diplomacy ended the disruption, but the year between adoption and acceptance (UPI, item 23) shows it did not shorten the duration quickly. Walker (item 21) explains its legal effect.
+
+    Reliability: Original UN legal text reflecting great-power agreement; it shows diplomacy helped end the Tanker War but not how much.
+
+5. **Bordoff, J. and O'Sullivan, M.L. (2026b). The Long Shadow of the Iran Shock.** *Foreign Affairs*, 14 August. [link](https://www.foreignaffairs.com/iran/long-shadow-iran-shock) — **Grade B2** · Type: Think tank / expert policy essay · Period: 2026
+
+    Summary and analysis: Argues that "by almost any measure, the world should be suffering a far more severe energy crisis". Prices stayed lower than feared because the market was oversupplied before the war and because Saudi Arabia and the UAE had built pipelines around the strait, not because of naval cooperation. The authors warn that this mild outcome may breed dangerous overconfidence. This is the key counter-argument for the EPQ's conclusion, giving weight to pipelines and market conditions as alternative factors that held down price rise and trade reduction. Pair it with Reuters on bypass capacity (item 24) and contrast it with the IEA release (item 2), which defenders of multilateralism credit instead. Their earlier essay (2026a) noted oil rose 55% in three weeks.
+
+    Reliability: Respected energy experts and former senior US officials with a liberal-internationalist view; an argument, so check the figures it cites.
+
+6. **UN Security Council (2026). Resolution 2817.** Security Council Report, 11 March 2026. [link](https://www.securitycouncilreport.org/un-documents/document/s-res-2817.php) — **Grade A1** · Type: Official / primary (UN resolution) · Period: 2026
+
+    Summary and analysis: Adopted 13–0 with China and Russia abstaining, and drafted by Bahrain for the GCC plus Jordan, it condemns Iran's actions to close or obstruct Hormuz and affirms that impeding lawful transit passage is a serious threat to international peace and security. It is the main 2026 evidence for formal frameworks, and it passed within two weeks of the war starting, a fast response. Yet it authorised no force and did not reopen the strait, and a softer draft that only "encouraged" escorts was vetoed on 7 April (11–2–2). Use it as evidence that frameworks without enforcement did little to cut duration. Compare it with Resolution 598 (item 4) and Iran's rival "authority" (item 35).
+
+    Reliability: Original UN text drafted by Bahrain for the Gulf states, who were parties to the crisis; it is declaratory and did not reopen the strait.
+
+7. **Talmadge, C. (2008). Closing Time: Assessing the Iranian Threat to the Strait of Hormuz.** *International Security* 33(1), pp. 82–117. [link](https://www.belfercenter.org/publication/closing-time-assessing-iranian-threat-strait-hormuz) — **Grade A2** · Type: Peer-reviewed journal article · Period: both
+
+    Summary and analysis: Argues that Iran probably could not keep Hormuz fully closed for long, but that mines, missiles and small boats could disrupt shipping enough to drag the US into a long, costly campaign. She notes that Iran's stocks of mines and missiles were already larger than during the Tanker War. It links both periods through two alternative factors, type of threat and technology, and gives a testable pre-2026 benchmark: seven months of repeated closures partly confirmed it. Use it as context and as a counter-argument: if a determined state with cheap weapons can impose disruption, the ceiling on what cooperation can achieve is low. O'Neil's published reply stresses the costs to Iran itself, and Childs (item 13) reaches a similar conclusion in 2026.
+
+    Reliability: Peer-reviewed article in a top security journal and free to read, though written in 2008 from a US point of view.
+
+8. **International Energy Agency (2026). Oil Market Report, April, May and August 2026.** IEA. [link](https://www.iea.org/reports/oil-market-report-may-2026) — **Grade A2** · Type: Official / data (intergovernmental report) · Period: 2026
+
+    Summary and analysis: The IEA's monthly tracking of the closure. Loadings through the strait averaged about 3.8 mb/d in April against more than 20 mb/d in February, a fall of about 81%. In May, Gulf output was 14.4 mb/d below pre-war levels and cumulative losses passed 1 billion barrels; in August, 8.3 mb/d was still shut in and 2026 world supply was forecast to fall 4.3 mb/d. Global stocks fell about 250 million barrels in March–April. This is the best data for trade reduction and duration in 2026, measured in barrels rather than ship counts (contrast Reuters, item 15). Use it to show severity rose sharply despite the stock release (item 2), remembering that the IEA is defending its own policy.
+
+    Reliability: Intergovernmental energy agency defending its own stock release; partly paywalled, and its May forecast of resumption proved wrong.
+
+9. **Al Jazeera (2026). Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different.** Al Jazeera (Qatar), 24 April. [link](https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different) — **Grade B2** · Type: Regional perspective (Gulf, Qatar) · Period: both
+
+    Summary and analysis: Directly compares Operation Earnest Will with 2026. Escorts did not prevent losses in 1987 (USS *Stark* was hit and a reflagged tanker struck a mine), and the 2026 setting is faster and more technological. Using the 1987–88 ratio, it estimates that about eight warships are needed to escort roughly 11 merchant ships, which shows why joint operations need resources that allied navies lacked in 2026. It is evidence for joint operations, technology and type of threat, and one of the few sources that frames the EPQ's exact comparison. Use it as a Gulf perspective supporting the argument that escorts have limits. Check the history against UPI (item 12) and Navias and Hooton (item 11), and the 2026 judgement against Childs (item 13).
+
+    Reliability: Qatari state-funded broadcaster, but this analysis is not about Qatar's own policy, and only a snippet was seen.
+
+10. **UPI (1984). Attack on Persian Gulf tanker "dangerous escalation".** UPI Archives, 15 May. [link](https://www.upi.com/Archives/1984/05/15/Attack-on-Persian-Gulf-tanker-dangerous-escalation/6583453441600/) — **Grade B2** · Type: Historical news (wire, 1984) · Period: Tanker War
+
+    Summary and analysis: A wire report written at the time on Iran's first retaliatory strikes on Kuwaiti and Saudi tankers. It records that Lloyd's had doubled seven-day war-risk cover for Kharg Island from 0.75% to 1.5% of hull value, and that after a Kuwaiti tanker was hit the rate reached 3% of ship value plus 2% of cargo value. This is the best primary evidence for the war-risk premium measure in period 1, so the student can compare like with like: 1984 rates (rising to 7.5% at Kharg, according to the Strauss Center) against 2026 quotes of 7.5–10% (item 1). Use it to support the finding that likelihood indicators were similar in both periods, while severity was not.
+
+    Reliability: Wire report from the time and excellent insurance evidence, but check which of the 15 and 16 May stories gives each figure.
+
+11. **Navias, M.S. and Hooton, E.R. (1996). Tanker Wars: The Assault on Merchant Shipping during the Iran–Iraq Conflict, 1980–1988.** I.B. Tauris (review in *Iranian Studies*). [link](https://www.cambridge.org/core/journals/iranian-studies/article/abs/tanker-wars-the-assault-on-merchant-shipping-during-the-iraniraq-conflict-19801988-martin-s-navias-and-e-r-horton-london-and-new-york-ib-tauris-publishers-1996-ix-244-pp-including-appendix-notes-index-of-ships-and-general-index-cloth/555128C86253A41B2A6257F098EC20C2) — **Grade A2** · Type: Academic book · Period: Tanker War
+
+    Summary and analysis: The standard scholarly history of the Tanker War, with an index of the ships attacked. It shows that Iraq began attacking shipping in 1981 and Iran retaliated from 1984, and the war is linked to the commonly cited toll of over 400 seafarers killed. Use it for the incidents and duration measures in period 1: the data book's Lloyd's and USNI counts (71 ships in 1984, about 178–181 in 1987, "more than 450" overall) can be checked against its index. It also covers the convoys and minesweepers, framing joint operations. Because two belligerents were raiding each other's trade, it supports the counter-argument that the type of threat differed from 2026's deliberate closure. It agrees with the Strauss Center (item 3).
+
+    Reliability: Academic book reviewed in journals, but dated (1996), it needs library access and may duplicate plan link 8.
+
+12. **UPI (1987). The supertanker Bridgeton hit an underwater mine.** UPI Archives, 24 July. [link](https://www.upi.com/Archives/1987/07/24/The-supertanker-Bridgeton-hit-an-underwater-mine-Friday-morning/4397554097600/) — **Grade B1** · Type: Historical news (wire, 1987) · Period: Tanker War
+
+    Summary and analysis: A same-day report that the 401,382-ton reflagged supertanker *Bridgeton* hit a mine about 18 miles west of Farsi Island on the very first Earnest Will convoy; none of the 26 aboard was hurt and it reached Kuwait. Follow-up UPI copy found a 30-by-10-foot hole and said the Navy had to "hide its ships behind the wounded Bridgeton" because no minesweepers were ready. This is key evidence for incidents, type of threat and technology (cheap mines beat expensive warships), and for slow response. Use it as a counter-argument: escort-based cooperation raised short-term risk in 1987. Mobley and Richer reach the same view from the archives, and the 2026 mine threat repeats the lesson.
+
+    Reliability: Same-day wire report, widely confirmed, though blaming Iran was a Pentagon claim at the time.
+
+13. **Childs, N. (2026). Navigating the Strait of Hormuz.** IISS *Survival Online*, June. [link](https://www.iiss.org/online-analysis/survival-online/2026/06/navigating-the-strait-of-hormuz/) — **Grade B2** · Type: Think tank · Period: 2026
+
+    Summary and analysis: Argues there is "no plausible military option" for reopening the strait. Tight waters and short warning times cancel out many US naval advantages, and many allied navies are "much diminished" and short of the right ships, so they will join a coalition only to deal with leftover threats once a ceasefire holds. It calls for a high-level initiative on what cooperative military means can and cannot do to protect waterways. This is the strongest source on the limits of joint operations and response speed in 2026. Use it as a counter-argument to naval cooperation, backed by Jiji (item 30) and CFR (item 28). IISS's later "Steel Traps" piece adds that the US cannot keep Hormuz open "at an acceptable cost".
+
+    Reliability: Respected London think tank, but it took large Bahraini funding in the past, and this is opinion written mid-crisis.
+
+14. **Kharroubi, E. (2026). Maritime chokepoints and the global economy: evidence from the Strait of Hormuz.** BIS Working Papers No. 1378. [link](https://www.bis.org/publications/working-paper-1378-maritime-chokepoints-and-the-global-economy-evidence-strait-hormuz) — **Grade B2** · Type: Academic (central-bank working paper) · Period: 2026
+
+    Summary and analysis: Uses real-time ship-traffic data to measure unusual falls in chokepoint transits, separating supply-driven from demand-driven drops. It finds that Hormuz disruption raises energy and fertiliser prices, especially when supply-driven, then weakens global industrial production and raises consumer prices after about 4–6 months, with effects lasting up to a year, while corporate bond spreads widen. Of all the chokepoints studied, Hormuz gives the clearest signal of global supply stress. This is the most rigorous evidence for the price-rise and trade-reduction measures, and for severity beyond oil. Use it as context on why trade concentration matters. It corroborates OECD and World Bank forecasts but says nothing directly about cooperation.
+
+    Reliability: A respected central-bank research body, but a working paper that has not been peer-reviewed and was seen only through search snippets.
+
+15. **Tan, F. / Reuters (2026). Shipping slows after Iran says it has again shut the Strait of Hormuz.** Reuters, via gCaptain, 22 June. [link](https://gcaptain.com/shipping-slows-after-iran-says-it-has-again-shut-the-strait-of-hormuz/) — **Grade B1** · Type: Wire news (2026) · Period: 2026
+
+    Summary and analysis: Reports that after the IRGC declared the strait shut again on 21 June, a week after Iran had lifted its blockade, Kpler counted only 5 transits in a day (down from 26) and Windward 12 (from 35), while CENTCOM claimed 55. It dates the re-closure that broke the June memorandum, so it is key evidence for the duration measure and for how fragile diplomatic frameworks were. Just as important, it shows that trade-reduction figures depend on who is counting, so the student must always name the tracker. Use it to support the argument that agreements without enforcement did not end the disruption. Compare it with Bloomberg's report of CENTCOM counting about 1,000 transits against 650 in AIS data, and with the IEA's barrel figures (item 8).
+
+    Reliability: Reuters wire copy reposted by trade press; CENTCOM's figure is a claim by a party to the war.
+
+16. **CIMSEC (2026). The Price of Doubt: Sea Control in the Strait of Hormuz.** CIMSEC. [link](https://cimsec.org/the-price-of-doubt-sea-control-in-the-strait-of-hormuz/) — **Grade C2** · Type: Think tank (naval-affairs forum) · Period: both
+
+    Summary and analysis: Argues that Operation Earnest Will succeeded less through firepower than because the US government took on the risk of the reflagged tankers, and that in 2026 shipping recovered only when financial risk became manageable. Escorts must therefore be paired with insurance or sovereign guarantees such as the US DFC–Chubb facility, and predictable, scheduled convoys reassure insurers more than a high interception rate. It also notes that only two Project Freedom transits took place before a pause on 6 May. It is included as a C-grade source because it is the only one linking both periods through joint operations, response speed and war-risk premiums. Use it as a nuanced argument that cooperation works through risk transfer, alongside Lloyd's List (item 1) and against Childs (item 13).
+
+    Reliability: Naval-affairs forum analysis whose author was not checked, though it links both Hormuz periods directly.
+
+17. **UPI (1987). Britain, France sending mine sweepers to Persian, Oman gulfs.** UPI Archives, 11 August. [link](https://www.upi.com/Archives/1987/08/11/Britain-France-sending-mine-sweepers-to-Persian-Oman-gulfs/5251555652800/) — **Grade B1** · Type: Historical news (wire, 1987) · Period: Tanker War
+
+    Summary and analysis: Reports that after the *Bridgeton* mining Britain committed four minesweepers and France joined, while Britain lobbied Italy and the Netherlands; Italy's defence minister said ships could go quickly, but only with parliamentary approval. Belgium, the Netherlands and Italy later followed, coordinated loosely through the Western European Union rather than NATO (MERIP). This is the closest 1987 parallel to the 2026 UK–France mission and a benchmark for response speed: about three weeks from mine strike to commitment, against more than seven months without deployment in 2026 (*The National*, 6 October). Use it to support the joint-operations factor, but note these were announcements, not results: UPI later reported only "a few dozen mines" cleared.
+
+    Reliability: Wire report of government announcements, not results, though confirmed by later analysis.
+
+18. **Lloyd's List (2026). Crude tanker rates in unchartered territory; VLCC index tops $420K.** Lloyd's List, c. 2 March. [link](https://www.lloydslist.com/LL1156492/Crude-tanker-rates-in-unchartered-territory-VLCC-index-tops-420K) — **Grade B1** · Type: Trade press (2026) · Period: 2026
+
+    Summary and analysis: Reports that the Baltic Exchange's Middle East Gulf–China supertanker index (TD3C) hit a record $423,736 a day as Iranian attacks and insurers pulling war cover effectively closed the strait; the global average VLCC index ($280,941) was the highest since at least 2008. This is the main evidence for the freight-rate measure, which has no Tanker War equivalent: the attribution test found no 1980s data and left the indicator out for period 1. Later Lloyd's List reports give new records of $759,969 (8 September) and $1.33m a day, so freight rose with each escalation whatever cooperation was in place. Use it to support the finding that likelihood stayed very high in 2026.
+
+    Reliability: The leading shipping paper of record reporting Baltic Exchange data, which are modelled assessments, not deals actually paid.
+
+19. **Joint Maritime Information Center (2025–26). JMIC Advisory Notes and threat levels.** JMIC / UKMTO (via Seatrade). [link](https://www.seatrade-maritime.com/security/jmic-raises-strait-of-hormuz-threat-level-to-severe) — **Grade B2** · Type: Official / primary (military information centre) · Period: 2026
+
+    Summary and analysis: Advisory notes from the Joint Maritime Information Center, run by the Combined Maritime Forces with UKMTO. They rated the Hormuz threat "critical" in March 2026, "substantial" on 17 June after the US–Iran memorandum and "severe" on 7 July, which gives a ready-made likelihood timeline. This is the main evidence for the information-sharing factor in 2026, which had no equivalent in 1987–88, when the lack of a shared air picture contributed to the *Vincennes* shooting down Iran Air 655. Use it to show that cooperation improved knowledge of risk without reducing incidents: in mid-October gCaptain reported JMIC still rating the threat SEVERE while CENTCOM claimed control. Compare it with Mobley (item 32).
+
+    Reliability: Warnings from a US-led coalition body that is itself a party to the conflict, and its criteria are not published in detail.
+
+20. **CNBC (2026). Brent oil closes at $100 after Iran's new supreme leader says Strait of Hormuz must remain closed.** CNBC, 12 March. [link](https://www.cnbc.com/2026/03/12/oil-prices-jump-iea-record-reserve-release-markets-doubt-relief.html) — **Grade B1** · Type: Wire / financial news (2026) · Period: 2026
+
+    Summary and analysis: Reports that Brent closed above $100 for the first time since August 2022, one day after the IEA's record 400m-barrel release, as Iran's new supreme leader said the strait must stay closed. Markets doubted that stocks could replace a closed strait. This is the sharpest test of the cooperation mechanism for the price-rise measure: the largest joint release in history did not stop prices breaking $100. Use it as a counter-argument to item 2, while acknowledging the counterfactual that prices might have risen further without the release. The figure fits EIA data (Brent from $61 to $118 over the first quarter, the largest real quarterly rise since 1988) and the World Bank's +65% for March.
+
+    Reliability: Major financial broadcaster, consistent with EIA and World Bank data, though daily prices are noisy.
+
+21. **Walker, G.K. (2000). The Tanker War, 1980–88: Law and Policy.** US Naval War College, *International Law Studies* vol. 74. [link](https://digital-commons.usnwc.edu/ils/vol74/iss1/) — **Grade A2** · Type: Academic book (legal) · Period: Tanker War
+
+    Summary and analysis: A legal study of the Tanker War covering the law of neutral shipping, the law of naval warfare, reflagging, convoys and UN Resolution 598, with a free full text that reproduces primary documents. It is the best source for the formal-frameworks and enforcement factors in period 1, explaining the legal basis on which the US escorted reflagged Kuwaiti tankers and retaliated against Iran. Use it as context: it shows that 1980s cooperation rested on a bilateral reflagging deal and national self-defence rather than any shipping-specific multilateral framework. Compare it with the 2026 legal debate (Lott; *Völkerrechtsblog*) over whether Iran, which never ratified UNCLOS, may suspend passage, a gap that no resolution closed.
+
+    Reliability: Authoritative legal study, but published by a US Navy institution, so it takes a US legal viewpoint.
+
+22. **Chatham House (2026). A naval coalition in the Strait of Hormuz should learn these lessons.** Chatham House Expert Comment, 1 May. [link](https://www.chathamhouse.org/2026/05/naval-coalition-strait-hormuz-should-learn-these-lessons) — **Grade B2** · Type: Think tank · Period: 2026
+
+    Summary and analysis: Argues that the proposed UK–France coalition should learn from the anti-piracy missions off Somalia and in the Strait of Malacca. It should aim at deterrence and at restoring shippers' and insurers' confidence rather than forcing the strait open, which the author says cannot be done by force; the mission would be defensive and start only after a lasting ceasefire. It links the EPQ's case studies and covers joint operations, information sharing and premiums. Use it to show what cooperation could achieve under the right conditions, but treat it as a plan: Al Jazeera (7 August) and *The National* (6 October) report the mission still stalled. It agrees with CIMSEC (item 16) on confidence and insurance.
+
+    Reliability: Respected London think tank, but this is opinion written for UK policymakers, and the specific lessons were cut off in the snippet.
+
+23. **UPI (1988). Iran accepts unconditional cease-fire.** UPI Archives, 18 July. [link](https://www.upi.com/Archives/1988/07/18/Iran-accepts-unconditional-cease-fire/6562585201600) — **Grade B1** · Type: Historical news (wire, 1988) · Period: Tanker War
+
+    Summary and analysis: Reports that UN Secretary-General Pérez de Cuéllar received a letter from President Khamenei accepting Resolution 598, a year after it passed; Iran had earlier demanded that Iraq first be named the aggressor. UPI chronologies show the ceasefire took effect on 20 August 1988 with UN observers. This is primary evidence that a formal framework, not escorts alone, ended the Tanker War, and it fixes the end date for the duration measure (Iraqi attacks from 1981, Iranian from 1984). Use it to argue that diplomacy mattered, while noting that Iran's exhaustion after Praying Mantis (item 27) and the *Vincennes* disaster made acceptance possible. The *Washington Post* (26 September 1988) confirms that convoys then wound down.
+
+    Reliability: Wire report from the time; the letter was dated 17 July and announced on 18 July.
+
+24. **Reuters via Al-Monitor (2026). Analysis: Hormuz Closure Divides the Fortunes of Middle Eastern Oil States.** Al-Monitor, April. [link](https://www.al-monitor.com/originals/2026/04/analysis-hormuz-closure-divides-fortunes-middle-eastern-oil-states) — **Grade B2** · Type: Wire news analysis (2026) · Period: 2026
+
+    Summary and analysis: A Reuters analysis showing that Iraq's and Kuwait's notional oil export revenues fell about three-quarters year-on-year in March 2026, while Iran and Oman gained. Iraq, Kuwait and Qatar have no bypass route, whereas Saudi Arabia (the East–West pipeline, 7 mb/d), the UAE (Habshan–Fujairah, itself attacked) and Oman do. This is strong Gulf data for two alternative factors, pipelines and trade concentration, and for trade reduction at state level. Use it to support Bordoff and O'Sullivan (item 5): physical alternatives, not cooperation, decided who suffered most. But note that bypasses were vulnerable, since drones shut the East–West line on 13 September (*Saudi Gazette*), and actual flows ran well below capacity.
+
+    Reliability: Reuters wire analysis with strong Gulf data, though only a snippet was seen.
+
+25. **Lloyd's Market Association Joint War Committee (2026). JWLA-033 listed areas circular.** LMA, 3 March 2026. [link](https://lmalloyds.com/wp-content/uploads/2026/03/JWLA-033_Iran.pdf) — **Grade A1** · Type: Official / primary (insurance-market circular) · Period: 2026
+
+    Summary and analysis: The London market's Joint War Committee created a much larger listed area covering the Gulf, the Gulf of Oman, part of the Indian Ocean, the Gulf of Aden and the southern Red Sea, adding Bahrain, Djibouti, Kuwait, Oman and Qatar. Ships entering must notify their war insurers and usually pay an additional premium. It shows the insurance market sharing risk information within three days of the first strikes, so it is evidence for information sharing and response speed, and the trigger for the premium measure. Use it as context alongside Lloyd's List (item 1). Compare it with UPI's 1987 report of Lloyd's extending premiums to Fujairah: risk zones widened in both periods.
+
+    Reliability: Original insurance-market document confirmed by Gard, though the market profits from wide listings and it gives no price levels.
+
+26. **UN News (2026). Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation.** UN News, June. [link](https://news.un.org/en/story/2026/06/1167818) — **Grade A1** · Type: Official / primary (UN and IMO) · Period: 2026
+
+    Summary and analysis: Reports that an IMO-led evacuation got 115 ships and about 2,500 seafarers out of the Gulf before pausing after a container ship was attacked. By June at least 14 seafarers had been killed and more than 40 merchant ships attacked. This is the best official count for the 2026 incidents measure, since no cumulative total exists, and a concrete case of multilateral humanitarian cooperation that a single attack could halt. Use it to support the argument that cooperation reduced human costs but could not secure the route. Compare it with the Tanker War toll (over 400 seafarers, item 11) and the IMO's March estimate of about 20,000 seafarers stranded.
+
+    Reliability: UN official news using IMO figures and confirmed by *The National*, but counts rise over time, so cite the date.
+
+27. **UPI (1988). U.S. forces destroyed two Iranian oil platforms.** UPI Archives, 18 April. [link](https://www.upi.com/Archives/1988/04/18/US-forces-destroyed-two-Iranian-oil-platforms-in-the/6703577339200/) — **Grade B2** · Type: Historical news (wire, 1988) · Period: Tanker War
+
+    Summary and analysis: A same-day report on Operation Praying Mantis, launched four days after USS *Samuel B. Roberts* hit an Iranian mine. The Sassan and Sirri platforms were destroyed and as many as six Iranian vessels were sunk or crippled, including the frigate *Sahand*, in the largest US–Iran clash so far. This is the main evidence for the enforcement factor and fast response in period 1, though it was a US action, not a multilateral one. Use it to argue that credible enforcement helped push Iran towards accepting Resolution 598 (item 23), but also as a counter-point: UPI reported Iraqi attacks continuing in May 1988, because US protection covered only US-flagged ships. Contrast it with 2026's unilateral blockade (item 33).
+
+    Reliability: Same-day wire report, and early Pentagon loss figures vary.
+
+28. **Council on Foreign Relations (2026). Trump's Project Freedom Isn't Going to Open the Strait of Hormuz.** CFR.org. [link](https://www.cfr.org/articles/trumps-project-freedom-isnt-going-to-open-the-strait-of-hormuz) — **Grade B3** · Type: Think tank · Period: 2026
+
+    Summary and analysis: Argues that the US-led escort and transit scheme known as Project Freedom cannot restore normal traffic through Hormuz on its own, and CIMSEC notes that only two of its transits took place before a pause on 6 May 2026. This is evidence on the joint-operations and US-role factors, and a counter-argument to the idea that one strong naval power can replace multilateral consent. Use it with Childs (item 13), who reaches the same conclusion from a military angle, and with gCaptain's October data: even at about 30 US-escorted transits a day (22% of pre-war traffic), attacks hit a new high. Contrast it with 1987, when the US acted as a neutral protector rather than a belligerent.
+
+    Reliability: Opinion critical of the Trump administration, with no author shown.
+
+29. **Hidalgo Pérez, M. (2026). Vulnerabilidades sistémicas ante la disrupción del estrecho de Ormuz.** *Comentario Elcano*, Real Instituto Elcano, 11 March. [link](https://www.realinstitutoelcano.org/comentarios/vulnerabilidades-sistemicas-ante-la-disrupcion-del-estrecho-de-ormuz/) — **Grade B2** · Type: Regional / national perspective (Spain; think tank) · Period: 2026
+
+    Summary and analysis: Applies Elcano's trade-dependence index to Hormuz. Spain looks resilient on crude (8.98% total dependence for hydrocarbons) because it buys from Atlantic suppliers, but the author calls this an "illusion": its plastics and synthetic rubber sector is 18.78% exposed, mostly indirectly through derivatives made in Hormuz-dependent countries. About 20% of world oil and LNG consumption passes the strait, and Pakistan and the Philippines face "extreme" risk. This gives the EPQ its Spanish perspective and evidence for trade concentration and supply-chain design as alternative factors. Use it as context. Official CORES data (about 5% of Spain's 2025 oil imports via Hormuz) corroborate its low direct-exposure finding.
+
+    Reliability: Spain's leading think tank, part-funded by firms including Repsol, and partly promoting its own index.
+
+30. **Jiji Press via Nippon.com (2026). Ceasefire needed for SDF dispatch to Hormuz: Takaichi.** Nippon.com, 18 March. [link](https://www.nippon.com/en/news/yjj2026031800161) — **Grade B1** · Type: Regional / national perspective (Asia, Japan) · Period: 2026
+
+    Summary and analysis: Japan's Prime Minister Takaichi said a ceasefire was a precondition for any Self-Defense Forces dispatch to Hormuz, because clearing mines during fighting would count as combat against the country that laid them. Although about 93% of Japan's imported crude normally passes the strait (*Japan Times*), Tokyo would not join escorts mid-war, and Australia, Germany and Italy set the same condition. This Asian perspective is evidence for slow response speed and the legal limits on joint operations. Use it as a counter-argument: the states most exposed through trade concentration were least able to cooperate militarily, which matches Samaan's "missing navies" and Childs (item 13). Japan relied instead on bilateral passage offers from Iran.
+
+    Reliability: Major Japanese news agency, confirmed by the *Japan Times*.
+
+31. **Muscat Daily (2026). Regional consortium proposed to manage Strait of Hormuz.** *Muscat Daily* (Oman), 28 July. [link](https://www.muscatdaily.com/2026/07/28/regional-consortium-proposed-to-manage-strait-of-hormuz/) — **Grade C2** · Type: Regional / national perspective (Gulf, Oman) · Period: 2026
+
+    Summary and analysis: Reports, citing Reuters and Al Jazeera, an Omani proposal for a regional mechanism to manage Hormuz with voluntary service fees and three navigation corridors; technical talks had not concluded. Indonesia's *Kompas* reports that the model copies the Malacca Strait's coastal cooperation and user contributions, and that Iran rejected it. It is included as a C-grade source because it gives a unique Omani view of an alternative formal framework, linking the Hormuz and Malacca case studies. Use it to argue that cooperation designed by coastal states might last longer than outside navies, but that it still needs the consent of the state posing the threat. Compare it with Iran's unilateral authority (item 35).
+
+    Reliability: Private paper that follows Oman's official line, reporting second-hand on unfinished talks.
+
+32. **Mobley, R.A. (2016). Fighting Iran: intelligence support during Operation Earnest Will, 1987–88.** *Studies in Intelligence* 60(3), CIA. [link](https://www.cia.gov/resources/csi/static/Fighting-Iran.pdf) — **Grade B2** · Type: Academic / professional (government intelligence journal) · Period: Tanker War
+
+    Summary and analysis: Describes how intelligence supported the 1987–88 escort operation. It is the only source in the research on information sharing during the Tanker War, and it shows that this ran mainly through US national intelligence rather than a shared multinational picture. Use it as evidence for the information-sharing factor in period 1, and compare it with 2026's JMIC threat ratings, UKMTO alerts and commercial ship tracking (item 19). The weakness of 1980s information sharing is underlined by USS *Vincennes* shooting down Iran Air 655 in July 1988, killing 290. The attribution test scores information sharing 1 for the Tanker War against 3 for 2026, one of the few factors where cooperation clearly grew.
+
+    Reliability: Official CIA in-house journal that passed CIA review, so it is pro-US and somewhat self-congratulatory.
+
+33. **Atlantic Council (2026). The crisis in the Strait of Hormuz is a heavy blow to the deteriorating maritime order.** Atlantic Council issue brief. [link](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-crisis-in-the-strait-of-hormuz-is-a-heavy-blow-to-the-deteriorating-maritime-order/) — **Grade B2** · Type: Think tank · Period: 2026
+
+    Summary and analysis: Treats the 2026 closure as part of a wider breakdown of the rules-based maritime order, which links it to the formal-frameworks and enforcement factors. It dates two key moves: the US blockaded Iranian ports from 13 April 2026, and on 5 May Iran opened a fee-paying lane on its own side of the strait. This is evidence for the US-role alternative factor: in 2026 the US was a belligerent and blockader, not the neutral protector of 1987–88, and the IMO later spoke of a "double blockade". Use it as context and a partial counter-argument, since enforcement was unilateral and Iran re-closed the strait after the blockade began. Compare it with CFR (item 28) and Press TV (item 35).
+
+    Reliability: Pro-NATO US think tank funded partly by governments, defence firms and Gulf states, with an advocacy tone.
+
+34. **Reuters (2026). Hormuz traffic slows as uncertainty over waterway persists.** Reuters, via Chronicle.lu, 19 August. [link](https://chronicle.lu/category/international/62944-hormuz-traffic-slows-as-uncertainty-over-waterway-persists) — **Grade B2** · Type: Wire news (2026) · Period: 2026
+
+    Summary and analysis: Reports that on 19 August only 6 commodity ships crossed Hormuz (Kpler), against 9 the day before and a 10-day average of 11, because shipowners saw no clear sign of reopening; Trump said the strait was open while Iran said it was shut. At Bab el-Mandeb, Kpler counted 30 weekend transits but no tracked Saudi oil, after the Houthis declared a naval blockade of Saudi Arabia on 20 July. This is the main evidence for the connected-crises alternative factor, showing disruption spreading to the Red Sea bypass route. Use it as a qualified counter-argument: these crises came after the closure, so they deepened severity rather than caused the change in risk.
+
+    Reliability: Reuters is reliable and the story appears on many sites, but the daily figures jump around a lot.
+
+35. **Press TV (2026). Strait of Hormuz closed to all transit over "illegal" US military movements: Persian Gulf authority.** Press TV (Iran), 12 July. [link](https://www.presstv.co.uk/Detail/2026/07/12/772101/Iran-Hormuz-closure-US) — **Grade D2** · Type: Regional / national perspective (Iran, state media) · Period: 2026
+
+    Summary and analysis: Iran's state broadcaster reports that the new Persian Gulf Strait Authority closed the strait to all traffic, citing "illegal" US military movements, after the June memorandum broke down. It presents Iranian control as lawful, port-style administration: a unilateral framework set against UNCLOS transit passage and Resolution 2817 (item 6). Use it only as evidence of how Iran framed events, not for facts. It shows why multilateral frameworks had little hold on the state posing the threat. Tasnim and Reuters confirm the July closure. It also supports the type-of-threat factor: in 2026 a state deliberately closed the strait, unlike the 1980s, when Iran needed it for its own exports.
+
+    Reliability: Iranian state broadcaster presenting Iranian control as lawful administration, so it is evidence of framing only.
