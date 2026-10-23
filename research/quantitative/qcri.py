@@ -102,11 +102,16 @@ if __name__ == "__main__":
     print()
     pairs = [("Hormuz: Tanker War (1984-88)", "Hormuz: 2026 closure"),
              ("Suez: 1967-75 closure", "Red Sea: 2023-26 Houthi crisis"),
+             ("Malacca: peak (2000 attacks, 2005 insurance)", "Malacca: 2025"),
+             ("Malacca: peak (2000 attacks, 2005 insurance)", "Malacca: 2026 (Jan-Sep)"),
              ("Malacca: peak (2000 attacks, 2005 insurance)", "Malacca: 2008"),
              ("Malacca: 2025", "Malacca: 2026 (Jan-Sep)")]
     for a, b in pairs:
         L1, S1, R1, *_ , C1, _ = res[a]; L2, S2, R2, *_ , C2, _ = res[b]
         K1 = 5 - C1 / 5; K2 = 5 - C2 / 5
-        rk2 = (L2 * S2 * K2) ** (1/3); rcf = (L2 * S2 * K1) ** (1/3)
+        rk1 = (L1 * S1 * K1) ** (1/3); rk2 = (L2 * S2 * K2) ** (1/3); rcf = (L2 * S2 * K1) ** (1/3)
+        share = ("cooperation unchanged" if C1 == C2 else "R_K rose" if rk2 >= rk1
+                 else f"{(rk2 - rcf) / (rk2 - rk1) * 100:.0f}% of R_K change")
         print(f"{a[:28]:28} -> {b[:28]:28} dR={R2-R1:+.2f} ({(R2-R1)/R1*100:+.0f}%)  "
-              f"dL={L2-L1:+.2f} dS={S2-S1:+.2f} dC={C2-C1:+d}  coop best-case effect={rk2-rcf:+.2f}")
+              f"dL={L2-L1:+.2f} dS={S2-S1:+.2f} dC={C2-C1:+d}  "
+              f"R_K {rk1:.2f}->{rk2:.2f} (cf {rcf:.2f}); coop best-case effect={rk2-rcf:+.2f} ({share})")

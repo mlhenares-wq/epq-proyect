@@ -68,7 +68,7 @@ Cooperation check (best case only): K = 5 − C/5 and R_K = (L × S × K)^(1/3).
 
 **Malacca**
 - Attacks: 75 (2000) and 2 (2008) in the Malacca Strait: ICC-IMB (A1). About 8 in Malacca and Singapore combined in 2008: RSIS (B2). 108 in the Straits of Malacca and Singapore in 2025, 107 of them in the Singapore Strait and 1 in the Malacca Strait: ReCAAP ISC (A1). 23 by end-September 2026, annualised to 31: ReCAAP via SAFETY4SEA (C2).
-- Premium 0.4% of hull value while the strait was a listed area (June 2005–August 2006): Maritime Executive, 6 Jul 2005 (C2, one source). Not listed afterwards: London P&I Club circular 7083 (A2, graded here); JWLA-033 (A1).
+- Premium 0.4% of hull value while the strait was a listed area (June 2005–August 2006): Maritime Executive, 6 Jul 2005 (C2, one source). Not listed afterwards: delisted from 7 August 2006 (London P&I Club circular 7083, seen via inforMARE, 9 Aug 2006, C1, as graded in provenance P05-07 #47); not listed in 2026 (JWLA-033, A1).
 - Traffic rose throughout (43,965 transits in 1999, 63,636 in 2004, 102,525 in 2025): Marine Department Malaysia via IALA (B2, graded here) and Seatrade (C2). So T, D and P = 0.
 
 ## Indicator values (central case)
@@ -99,12 +99,37 @@ Cooperation check (best case only): K = 5 − C/5 and R_K = (L × S × K)^(1/3).
 
 ## Changes between periods
 
-| Comparison | ΔR | ΔL | ΔS | Ranges separate? | ΔC | Best-case cooperation effect (R_K scale) | Process-tracing share of cooperation |
-|---|---|---|---|---|---|---|---|
-| Hormuz: Tanker War → 2026 | +0.90 (+26%) | +0.03 | +1.47 | Yes | +3 | −0.26 (risk rose anyway; without the extra cooperation R_K would be 3.94, not 3.68) | 5.7% |
-| Suez 1967–75 → Red Sea 2023–26 | −1.07 (−24%) | −0.93 | −1.17 | Yes | +8 | −0.56 (at most 44% of the fall) | 8.5%, mixed sign |
-| Malacca peak → 2008 | −0.57 (−30%) | −1.87 | 0 | Yes | +7 | −0.27 (at most 35% of the fall) | 15.8–23.7% |
-| Malacca 2025 → 2026 | −0.15 (−9%) | −0.46 | 0 | No (overlap) | 0 | 0 (cooperation did not change) | 13.6% patrols + 27.3% information sharing |
+The EPQ's Malacca comparison is the piracy peak against 2025–26; peak → 2008 is the window in which the joint patrols can be tested, and 2025 → 2026 is the latest change.
+
+| Comparison | ΔR | ΔL | ΔS | Ranges separate? | ΔC | R_K earlier → later (later without extra cooperation) | Generous cooperation effect | Process-tracing share of cooperation |
+|---|---|---|---|---|---|---|---|---|
+| Hormuz: Tanker War → 2026 | +0.90 (+26%) | +0.03 | +1.47 | Yes | +3 | 3.38 → 3.68 (3.94) | −0.26; risk rose anyway | 5.7% |
+| Suez 1967–75 → Red Sea 2023–26 | −1.07 (−24%) | −0.93 | −1.17 | Yes | +8 | 4.31 → 3.02 (3.58) | −0.56 (44% of the R_K fall) | 8.5%, mixed sign |
+| Malacca peak → 2025 | −0.26 (−14%) | −0.93 | 0 | Yes | +9 | 2.41 → 1.77 (2.19) | −0.42 (65%) | not tested separately |
+| Malacca peak → 2026 | −0.40 (−21%) | −1.39 | 0 | Yes | +9 | 2.41 → 1.66 (2.06) | −0.40 (53%) | not tested separately |
+| Malacca peak → 2008 | −0.57 (−30%) | −1.87 | 0 | Yes | +7 | 2.41 → 1.64 (1.91) | −0.27 (35%) | 15.8–23.7% |
+| Malacca 2025 → 2026 | −0.15 (−9%) | −0.46 | 0 | No (overlap) | 0 | 1.77 → 1.66 (1.66) | 0 (cooperation unchanged) | 13.6% patrols + 27.3% information sharing |
+
+The generous shares are inflated because K is built from the cooperation score itself; process tracing is the test of cause.
+
+**Area caveat for Malacca.** The peak's 75 attacks are the Malacca Strait only (IMB). The 108 incidents in 2025 cover the Straits of Malacca and Singapore (ReCAAP), and 107 of them were in the Singapore Strait. Counting the Malacca Strait alone (1 incident) gives R = 1.12 for 2025 and 2026, so the fall from the peak becomes −0.80.
+
+## Sensitivity tests (`sensitivity.py`)
+
+Each test changes one thing: a goalpost halved or doubled (attacks 100/400 a year; premium 5%/20%; duration 5/20 years; Brent +50%/+200%; freight +500%/+2,000%), likelihood or severity weighted 2:1, the arithmetic mean of L and S, or one indicator dropped. That makes 19 tests.
+
+| Comparison | Central ΔR | Range across the 19 tests | Direction reverses? |
+|---|---|---|---|
+| Hormuz: Tanker War → 2026 | +0.90 | +0.57 (drop Brent) to +1.80 (drop duration) | No |
+| Suez 1967–75 → Red Sea 2023–26 | −1.07 | −0.77 (drop Brent) to −1.61 (drop freight) | No |
+| Malacca peak → 2025 | −0.26 | +0.06 (drop premium) to −0.77 (drop attacks) | **Yes, once (drop premium)** |
+| Malacca peak → 2026 | −0.40 | −0.16 (drop premium) to −0.77 (drop attacks) | No |
+| Malacca peak → 2008 | −0.57 | −0.32 (severity 2:1) to −0.94 (arithmetic mean) | No |
+| Malacca 2025 → 2026 | −0.15 | 0.00 (drop attacks) to −0.23 | No (but the input ranges overlap) |
+
+Bands: Hormuz 2026 and Suez 1967–75 stay Very high and the Red Sea stays High in every test. The Tanker War drops to Moderate only when duration is dropped (2.79). The Malacca peak and Malacca 2025 reach Moderate in a few tests. The banded CCRI gives the same direction in every comparison.
+
+The one reversal: without the premium, 2025 (2.13) sits above the peak (2.07), because 108 incidents in both straits exceed 75 in the Malacca Strait alone. The measured fall from the peak to 2025 therefore rests on insurance and on the area definition.
 
 ## Likelihood check: insurance-implied vs observed chance of attack
 
@@ -116,6 +141,6 @@ A war-risk premium of p% of hull value implies that insurers expect at most abou
 | Hormuz, 2026 | 7.5% | 1 in 13 | about 5% (1 in 19) | derived: at least 70 attacks ÷ about 1,330 transits, Mar–Aug 2026 (PortWatch write-ups); an overestimate, since some ships were hit in port |
 | Red Sea, 2024 | ~1% | 1 in 100 | about 0.76% (1 in 132); about 4 sunk (1 in 3,300) | derived: about 100 attacks ÷ about 13,200 Suez transits in 2024 (Suez Canal Authority via Ahram Online, D2) |
 | Malacca, 2000 / 2005 | 0.4% (2005) | 1 in 250 | 0.13% (1 in 746) in 2000 | derived: 75 attacks ÷ 55,957 transits (IMB; Marine Department Malaysia) |
-| Malacca, 2025 | not listed | – | 0.11% (1 in 949), 53% petty theft | derived: 108 incidents ÷ 102,525 transits (ReCAAP; Seatrade) |
+| Malacca, 2025 | not listed | – | 0.11% (1 in 949) | derived: 108 incidents ÷ 102,525 transits (ReCAAP; Seatrade). Across all of Asia, 53% of 2025 incidents were petty theft and none reached CAT 1 (no breakdown for the straits alone) |
 
 In every case the insurance price is 1.3–3 times the observed attack rate: premiums track likelihood but lean high.
