@@ -72,7 +72,7 @@
 
 30. **Tan, F. / Reuters (2026). Shipping slows after Iran says it has again shut the Strait of Hormuz.** Reuters, via gCaptain, 22 June. [link](https://gcaptain.com/shipping-slows-after-iran-says-it-has-again-shut-the-strait-of-hormuz/) — **Grade B1** · Type: Wire news (Reuters)
 
-     Summary and analysis: Reports that after the IRGC declared the strait shut again on 21 June, a week after Iran had lifted its blockade, Kpler counted only 5 transits in a day (down from 26) and Windward 12 (from 35), while CENTCOM claimed 55. It dates the re-closure that broke the June memorandum, so it is key evidence for the duration measure and for how fragile diplomatic frameworks were. Just as important, it shows that trade-reduction figures depend on who is counting, so the student must always name the tracker. Use it to support the argument that agreements without enforcement did not end the disruption. Compare it with Bloomberg's report of CENTCOM counting about 1,000 transits against 650 in AIS data, and with Al Jazeera's figure of about 5 ships a day (−95%) from mid-July.
+     Summary and analysis: Reports that after the IRGC declared the strait shut again on 21 June, a week after Iran had lifted its blockade, Kpler counted only 5 transits in a day (down from 26) and Windward 12 (from 35), while CENTCOM claimed 55. It dates the re-closure that broke the June memorandum, so it is key evidence for the duration measure and for how fragile diplomatic frameworks were. It also shows that transit figures depend on who is counting, so always name the tracker. Use it to support the argument that agreements without enforcement did not end the disruption. Compare it with Bloomberg's report of CENTCOM counting about 1,000 transits against 650 in AIS data, and with Al Jazeera's figure of about 5 ships a day (−95%) from mid-July.
 
      Reliability: Reuters wire copy reposted by trade press; CENTCOM's figure is a claim by a party to the war.
 
@@ -80,7 +80,7 @@
 
      Summary and analysis: An AP roundup reporting that UKMTO recorded 12 attacks on shipping in a single week in early October, while Kpler put Hormuz oil flows at about 13.1 mb/d against 17.1 mb/d before the war, with oil still above $100. It captures the October escalation, more than seven months after the first strikes, in which the *GFS Pride* and a second ship were sunk. This is useful evidence for incidents, Brent and duration late in the crisis: even with US-guided transits restoring part of the oil flow, attacks reached a new high. Use it to show that neither the US escort effort nor earlier diplomacy brought the disruption to an end, and check its figures against JMIC (item 23) and Reuters (item 30).
 
-     Reliability: AP wire roundup in a paper of record, using UKMTO and Kpler figures that should be cited at source.
+     Reliability: AP wire roundup in a paper of record.
 
 32. **The National (2026). French warships "ready to go now" for Gulf deployment, says admiral.** *The National* (UAE), 6 October. [link](https://www.thenationalnews.com/news/europe/2026/10/06/french-warships-ready-to-go-now-for-gulf-deployment-says-admiral/) — **Grade C2** · Type: Regional / national perspective (Gulf, UAE)
 
