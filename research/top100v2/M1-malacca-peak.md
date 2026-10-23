@@ -10,13 +10,13 @@
 
      Reliability: Scholarly and written during the events, so it ends before ReCAAP and Eyes in the Sky took effect, and the summary comes from search results only.
 
-67. **[Authors to check] (2023). Multilateral cooperation against maritime piracy in the Straits of Malacca: from the RMSI to ReCAAP.** *Marine Policy*. [link](https://www.sciencedirect.com/science/article/abs/pii/S0308597X23001550) — **Grade A2** · Type: Peer-reviewed journal article
+67. **Poonnawatt, K. (2023). Multilateral cooperation against maritime piracy in the Straits of Malacca: from the RMSI to ReCAAP. Vol. 152, article 105628.** *Marine Policy*. [link](https://www.sciencedirect.com/science/article/abs/pii/S0308597X23001550) — **Grade A2** · Type: Peer-reviewed journal article
 
      Summary and analysis: This article explains why the US-backed Regional Maritime Security Initiative of 2004 failed: Indonesia and Malaysia saw outside patrols as a threat to their sovereignty and did not rank piracy as a priority. It calls the RMSI a pioneering failure whose lessons ReCAAP applied, and argues that ReCAAP worked better because it was inclusive and built on information sharing rather than joint patrols, even though Malaysia and Indonesia never signed it. It is the key academic source on formal frameworks and on why Malacca cooperation became "coordinated, not joint". Use it to frame the 2004 sovereignty row reported by the Straits Times (76) and the Indonesian position (77), then test its optimism against the timing problem in the ReCAAP text (70).
 
      Reliability: A peer-reviewed journal with the abstract confirmed, but the authors are unknown, it is paywalled and it may favour the ReCAAP model.
 
-68. **[Authors to check] (2026). Complexities of governance and sovereignty in maritime security.** *Marine Policy*. [link](https://www.sciencedirect.com/science/article/pii/S0308597X26000369) — **Grade A3** · Type: Peer-reviewed journal article
+68. **[Author to check] (2026). Complexities of governance and sovereignty in maritime security. Vol. 187 (May 2026).** *Marine Policy*. [link](https://www.sciencedirect.com/science/article/pii/S0308597X26000369) — **Grade A3** · Type: Peer-reviewed journal article
 
      Summary and analysis: This recent article gives the sharpest critique of the 2005 Eyes in the Sky air patrols. It reports that only about 8 patrol flights a week were flown, against roughly 70 needed, and in daylight while pirates struck at night. It argues that piracy falling at the same time as the patrols began makes them look effective without proving that they caused the fall. It is the main evidence on the core method problem of correlation versus causation. Use it to challenge the founding claims of the MINDEF release (71) and the insurers' reasoning in Business Insurance (75), alongside the tsunami (74) and the fall that came before any patrols (69). Check the title, authors and the 8/70 figures in the paper before quoting.
 
@@ -70,7 +70,7 @@
 
      Reliability: A government-linked Singapore paper from the time, but the link opens the whole day's issue, so the exact article must be checked.
 
-77. **Oegroseno, A.H. / Ministry of Foreign Affairs, Indonesia (c. 2008). Presentation on the Straits of Malacca and Singapore to the UN Open-ended Informal Consultative Process on Oceans and the Law of the Sea.** UN Division for Ocean Affairs and the Law of the Sea. [link](https://static.un.org/depts/los/consultative_process/documents/9_oegroseno_presentation.pdf) — **Grade B2 (graded here)** · Type: Regional perspective (Indonesian government)
+77. **Oegroseno, A.H. / Ministry of Foreign Affairs, Indonesia (June 2008). Presentation on the Straits of Malacca and Singapore to the UN Open-ended Informal Consultative Process on Oceans and the Law of the Sea.** UN Division for Ocean Affairs and the Law of the Sea. [link](https://static.un.org/depts/los/consultative_process/documents/9_oegroseno_presentation.pdf) — **Grade B2 (graded here)** · Type: Regional perspective (Indonesian government)
 
      Summary and analysis: A senior Indonesian foreign-ministry official set out his government's view of the straits to a UN forum. The presentation recalls the 2005 Batam ministerial meeting, which reiterated that Indonesia, Malaysia and Singapore are responsible for safety of navigation and called littoral institutional frameworks the only mechanisms to manage the straits. This matches Defence Minister Juwono Sudarsono's line, reported by Antara, that joint patrols with outsiders would erode sovereignty and that foreign help should be capacity building, not warships. It is the Indonesian voice on formal frameworks: ownership by the coastal states, not outside enforcement. Use it with the Straits Times (76) and Marine Policy (67), and check whether it credits the multilateral or the national patrols.
 
