@@ -32,7 +32,7 @@ By 10 March 2026, by contrast, exports through Hormuz had fallen below 10% of pr
 
 Recovery is disputed: Kpler data put early-October crude flows at about 74% of pre-war (Iran International, 8 Oct 2026, C1). Another Kpler reading had exports about 40% below normal in the week to 12 October (CNBC, 14 Oct 2026, B1).
 
-Duration is the one measure on which the Tanker War was worse. Attacks on neutral shipping ran for 53 months, until the ceasefire of 20 August 1988 (UPI, 18 Jul 1988, B1). The 2026 closure has lasted 7.7 months and continues, but it nearly stopped the flow rather than slowing it.
+Duration is the one index measure on which the Tanker War scores worse. Attacks on neutral shipping ran for 53 months, until the ceasefire of 20 August 1988 (UPI, 18 Jul 1988, B1). The 2026 closure has lasted 7.7 months and continues, but it nearly stopped the flow rather than slowing it.
 
 Prices show the sharpest contrast: Brent crude rose only 6.9%, from $18.58 in May 1987 to $19.86 in July (FRED, 1987, A1). In 2026 it rose 65%, from $71.36 on 27 February (FRED, 2026, A1) to $118 on 31 March (EIA, 2026, A2).
 
@@ -42,7 +42,7 @@ Lloyd's List confirms the record run (Lloyd's List, 2 Mar 2026, B1). Insurance a
 
 In 1984, seven-day cover for Kharg Island doubled from 0.75% to 1.5% of hull value (UPI, 15 May 1984, B2). Marine insurers lost over $500m between September 1980 and March 1984 (UPI, 9 Mar 1984, B2). By May 2026, lost Gulf oil output had passed 1bn barrels (IEA Oil Market Report, May 2026, A2).
 
-Human costs were higher in the 1980s, though counts differ widely. They run from 116 seafarers killed in 1984–87 (USNI Proceedings, May 1988, B2) to over 400 (Navias and Hooton, 1996, A2). By 15 October 2026 the IMO counted 24 seafarers dead (AFP via Ahram Online, Oct 2026, C1, graded here).
+Total human costs were higher in the 1980s, over a far longer period, and counts differ widely. They run from 116 seafarers killed in 1984–87 (USNI Proceedings, May 1988, B2) to over 400 (Navias and Hooton, 1996, A2). By 15 October 2026 the IMO counted 24 seafarers dead (AFP via Ahram Online, Oct 2026, C1, graded here).
 
 The index captures this gap: S rose from 2.53 to 4.00. Traffic lost scores 0.900 against 0.250 and the price rise 0.650 against 0.069, while only duration is lower in 2026 (0.451 against 0.832). Freight adds a full 1.000 for 2026 but is missing for the 1980s, so the scores are not perfectly like for like.
 
@@ -59,7 +59,7 @@ Scores (0–4, higher is stronger) come from the project's attribution test.
 | Enforcement | Score 2. Praying Mantis hit Iran's navy (UPI, 18 Apr 1988, B2), but Iraqi attacks went on (UPI, 14 May 1988, B2). | Score 1. Resolution 2817 authorised no force (UNSC, 11 Mar 2026, A1). | None from multilateral action. | None from multilateral action. |
 | Total (out of 20) | 9 | 12 | None overall. | Slight overall. |
 
-**Formal frameworks:** Iran accepted Resolution 598 only a year after it passed (UPI, 18 Jul 1988, B1), while attacks peaked in between. In 2026 Resolution 2817 condemned the closure, yet Iran kept setting its own conditions for reopening (The National, 4 Oct 2026, C1). Frameworks did nothing to likelihood in either period and reduced severity only slightly, by framing the 1988 ceasefire once Iran chose peace.
+**Formal frameworks:** Iran accepted Resolution 598 only a year after it passed (UPI, 18 Jul 1988, B1), while attacks peaked in between. In 2026 Iran defied Resolution 2817, setting its own conditions for reopening (UNSC, 11 Mar 2026, A1; The National, 4 Oct 2026, C1). Frameworks did nothing to likelihood in either period and reduced severity only slightly, by framing the 1988 ceasefire once Iran chose peace.
 
 **Joint operations:** five European navies sent minesweepers in 1987 but cleared "only a few dozen mines" (UPI, 2 Apr 1989, B2). In 2026 the US military claimed about 30 escorted transits a day, even as attacks hit a new high (gCaptain, 15 Oct 2026, C2). Joint operations made likelihood worse in 1987, when convoys drew mines and missiles, and eased severity only slightly in either period.
 
@@ -67,7 +67,7 @@ Scores (0–4, higher is stronger) come from the project's attribution test.
 
 **Response speed:** the first convoy sailed in July 1987, over four months after the US offered escorts (Washington Post, 28 Mar 1987, B2). In 2026 the International Energy Agency's 32 members agreed a record 400-million-barrel release in 11 days (IEA, 11 Mar 2026, A1). Speed trimmed severity at the margin but not likelihood; even so, Brent hit $100 the next day (CNBC, 12 Mar 2026, B1).
 
-**Enforcement:** US strikes crippled Iran's navy four days after a US frigate was mined (NHHC, Apr 2018, B1, graded here). In 2026 Resolution 2817 authorised no force, and the IMO condemned tolls with no means to stop them (Foreign Policy, 26 Mar 2026, B2). Multilateral enforcement did nothing in either period; the only coercion with any effect was unilateral US force in 1988.
+**Enforcement:** US strikes crippled Iran's navy four days after a US frigate was mined (NHHC, Apr 2018, B1, graded here). Resolution 2817 authorised no force (UNSC, 11 Mar 2026, A1), and the IMO could only condemn tolls (Foreign Policy, 26 Mar 2026, B2). Multilateral enforcement did nothing in either period; the only coercion with any effect was unilateral US force in 1988.
 
 ### Other explanations
 
@@ -89,7 +89,7 @@ Process tracing gives cooperation 5.7% of the causal weight, the smallest share 
 
 Risk rose by 0.90, and the low–high ranges (3.41–3.79 and 4.09–4.57) do not overlap, so the result is robust. Almost all of the rise is in severity: S rose by 1.47 and L by only 0.03. Cooperation rose by 3 points, from 9 to 12 out of 20.
 
-The best-case check gives cooperation full credit: without the extra 3 points, adjusted 2026 risk would be 3.94, not 3.68. That −0.26 is real but small, because adjusted risk still rose from 3.38 to 3.68. Cooperation pushed the right way, but far too weakly to offset the rise.
+The best-case check gives cooperation full credit: without the extra 3 points, adjusted 2026 risk would be 3.94, not 3.68. That −0.26 is real but small: adjusted risk still rose from 3.38 to 3.68. Cooperation pushed the right way, but far too weakly to offset the rise.
 
 ### Judgement
 

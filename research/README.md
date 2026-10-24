@@ -59,3 +59,10 @@
 1. **The research environment could not open web pages.** Every source was verified as existing through search results, but summaries and figures come from search snippets. **Open each source and check every figure before citing it.** Items marked [BK] or "to check" need particular care.
 2. Some outlets (NYT, Guardian, BBC, FT, El País) were blocked from search, so other papers from the same countries stand in for them.
 3. The 2026 crises are still going on.
+
+## Full judgement analysis (23–24 Oct 2026)
+
+- `qualitative/full-judgement-analysis.md`: markdown export of the live doc "Risk and Multilateralism at Maritime Chokepoints: A Full Judgement Analysis" (https://claude.ai/artifact/3ZG88dCk6UnwNttQrPtBGw). It covers the overall judgement, the method, the risk equation, the quantitative results, the three full case sections, the cross-case comparison, the counter-arguments, the evaluation, the conclusion and about 190 graded sources.
+- `quantitative/qcri.py`: the risk equation, R = √(L × S), built from measured likelihood and severity indicators. `qcri-results.md` holds its results and sources.
+- `quantitative/sensitivity.py`: 19 alternative versions of the equation.
+- `qualitative/v2/`: the drafts of the case sections and their source lists.

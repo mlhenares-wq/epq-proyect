@@ -1,5 +1,3 @@
-# Sources cited in Q3-hormuz.md (Strait of Hormuz)
-
 - AFP via Ahram Online (2026). Report on Hormuz attacks in 1–15 October and seafarer deaths (title not recorded). Ahram Online. [link](https://english.ahram.org.eg/News/580023.aspx) — Grade C1 (graded here)
 - Al Jazeera (2026). Iran shuts Hormuz strait: But wasn't it already closed? Al Jazeera. [link](https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed) — Grade C2
 - Al Jazeera (2026). Saudi, UAE, Iraq: Can three pipelines help oil escape Strait of Hormuz? Al Jazeera. [link](https://www.aljazeera.com/economy/2026/3/27/saudi-uae-iraq-can-three-pipelines-help-oil-escape-strait-of-hormuz) — Grade B2

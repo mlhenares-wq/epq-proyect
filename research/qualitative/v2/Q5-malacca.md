@@ -1,8 +1,8 @@
 ## Strait of Malacca: the piracy peak (1999–2005), the fall to 2008, and 2025–26
 
-Multilateral cooperation was a major reason among several for the fall in risk in the Strait of Malacca, but not the main one. On the project's 1–5 Quantitative Chokepoint Risk Index (QCRI), risk (R) fell from 1.92 at the peak to 1.35 in 2008, down 30%.
+Multilateral cooperation was a major reason among several for the fall in risk in the Strait of Malacca, but not the main one. On the project's 1–5 Quantitative Chokepoint Risk Index (QCRI), risk (R) fell from 1.92 at the piracy peak to 1.66 in 2025 and 1.52 in 2026, and it was lowest in 2008, at 1.35.
 
-Today risk sits below the peak but above 2008: 1.66 in 2025 and 1.52 in 2026, a change within the margin of error. Throughout, only likelihood moved: severity stayed at its minimum because piracy never slowed trade.
+Risk stayed in the Low band throughout, and only likelihood moved: severity stayed at its minimum because piracy never slowed trade. The fall from 2025 to 2026 is within the margin of error.
 
 ### Likelihood
 
@@ -37,7 +37,7 @@ Severity (S) was minimal in every period: S = 1.00 at the peak, in 2008, 2025 an
 
 ReCAAP said the 2025 rise "does not indicate a corresponding increase in threat to maritime trade" (Free Malaysia Today, 2026, C1). The only measurable cost came from insurers, after Lloyd's Joint War Committee (JWC) listed the strait on 20 June 2005 (RSIS, 2005, B2).
 
-Premiums reached nearly 0.4% of hull value, about US$150,000 per port call (Maritime Executive, 2005, C2). The better-graded RSIS put the cost far lower, at about US$5,000 per trip (RSIS, 2006, B2). The listing ended on 7 August 2006 (inforMARE, 2006, C1; London P&I Club, 2006, A2, graded here), and ships never abandoned the route.
+Premiums reached nearly 0.4% of hull value, about US$150,000 per port call (Maritime Executive, 2005, C2). The better-graded RSIS put the cost far lower, at about US$5,000 per trip (RSIS, 2006, B2). The listing ended on 7 August 2006 (London P&I Club circular via inforMARE, 2006, C1), and ships never abandoned the route.
 
 Crews still suffered harm. In 2025 the IMB recorded 14 crew taken hostage in the Singapore Straits, and guns in 27 incidents worldwide (ICC-IMB, 2026, A2). Robbers increasingly carried metal rods or improvised weapons (RSIS, 2025, B2).
 
