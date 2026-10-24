@@ -9,6 +9,7 @@ Each outlet has a grade from the same Admiralty Code used in the rest of the pro
 | Agence France-Presse (AFP) | News agency | B2 | Gulf and Red Sea events, via partner papers | Free via partners |
 | UPI Archives | News agency (archive) | B1–B2 | The Tanker War, 1980–88 | Free |
 | Bloomberg | Financial news | B1–B2 | Oil prices, freight, insurance | Paywalled |
+| Financial Times | Financial newspaper, UK | B2 (graded here) | Oil, freight and insurance markets | Paywalled (ask about free student access) |
 | CNBC | Financial news | B1 | Oil-market reactions | Free |
 | Lloyd's List | Shipping paper of record | B2 | Insurance premiums, freight, ship attacks | Subscription (try a library) |
 | gCaptain | Shipping news | B2–C2 | Transit counts, Reuters and Bloomberg reprints | Free |
@@ -108,6 +109,10 @@ Each outlet has a grade from the same Admiralty Code used in the rest of the pro
 ## European press
 
 30. **Última Hora (C1).** A Spanish newspaper. It is fairly reliable for Spain's official decisions, such as declining to join the US-led Prosperity Guardian coalition. I chose it because it shows that even allies disagreed over how to cooperate, which supports my point that cooperation had gaps. However, it is a regional paper, so for Spanish policy I should also look for El País or official government statements.
+
+## Added later
+
+31. **Financial Times (B2, graded here).** A British daily specialising in business, finance and economics, with expert correspondents on energy and shipping. Reliable for market figures and economic analysis of each crisis, but paywalled, written for investors, and not searchable during the research, so its grade rests on reputation; check its figures against official data.
 
 ## Outlets to avoid or use only for framing
 
